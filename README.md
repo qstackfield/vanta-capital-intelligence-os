@@ -509,6 +509,12 @@ operating across **Alpha, Markets, and Executor nodes**.
 ---
 ## 🔗 Related Repos
 
-- [VANTA Platform – Subscriptions & Vault Mirroring](https://github.com/qstackfield/vanta-platform)  
-  Business layer for capital-aligned fees, referrals, and user-facing apps.
+---
 
+## 🔗 Related Repositories  
+
+- **[VANTA Platform – Subscriptions & Vault Mirroring](https://github.com/qstackfield/vanta-platform)**  
+  User-facing layer for onboarding, subscriptions, API entitlements, and **Vault Mirroring**.  
+  Handles billing, referral incentives, entitlement enforcement, and broker API integrations so followers can copy vaults seamlessly.  
+
+---
