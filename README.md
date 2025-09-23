@@ -88,8 +88,6 @@ Deliver **real-time conviction vectors** with explainable reasoning chains acros
 | signal_id | conviction_score | reason_vector | contributing_models | TTL | routing_tags |
 ```
 ---
-
-```
 ## ⚙️ Model Ops
 - **Registry:** MLflow-backed with lineage, metrics, hyperparams  
 - **Retraining:** rolling-window retrains with shadow→live promotion  
