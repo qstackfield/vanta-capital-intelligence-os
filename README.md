@@ -1,40 +1,46 @@
-<div align="center">
+# 💰 VANTA OS — Autonomous Capital Intelligence Stack 📊🔐
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-**VANTA OS — Autonomous Capital Intelligence Stack** 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+---
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
-![MLflow](https://img.shields.io/badge/ML-Ops-MLflow-green?logo=mlflow&logoColor=white)
-![Secure](https://img.shields.io/badge/Secure-By%20Design-red?logo=datadog&logoColor=white)
-![Audit](https://img.shields.io/badge/Audit-Immutable%20Logs-orange?logo=elastic&logoColor=white)
-![Uptime](https://img.shields.io/badge/Uptime-99.9%25-brightgreen?logo=icloud&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Security](https://img.shields.io/badge/Secure-By%20Design-green.svg)
+![Audit](https://img.shields.io/badge/Audit-Immutable%20Logs-orange.svg)
+![Uptime](https://img.shields.io/badge/Uptime-99.9%25-brightgreen.svg)
+![Sharpe Ratio](https://img.shields.io/badge/KPI-Sharpe%20Ratio%202.1-purple.svg)
+![Vaults](https://img.shields.io/badge/PnL-Compounding%20Vaults%20+25%25-yellow.svg)
+![Execution](https://img.shields.io/badge/Execution-Auto%20Trading%20Engine-blueviolet.svg)
+![Monitoring](https://img.shields.io/badge/Monitoring-Drift%20Detection%20%3C24h-red.svg)
+![AI](https://img.shields.io/badge/AI-Persona%20Simulators-lightgrey.svg)
 
-![Sharpe](https://img.shields.io/badge/KPI-Sharpe%20Ratio%202.1%E2%86%91-purple?logo=marketo&logoColor=white)
-![PnL](https://img.shields.io/badge/PnL-Compounding%20Vaults%20%2B25%25-green?logo=dollar&logoColor=white)
-![AutoTrading](https://img.shields.io/badge/Execution-Auto%20Trading%20Engine-blueviolet?logo=lightning&logoColor=white)
-![Drift](https://img.shields.io/badge/Monitoring-Drift%20Detection%20%3C24h-yellow?logo=airbnb&logoColor=white)
-![Personas](https://img.shields.io/badge/AI-Persona%20Simulators-critical?logo=ghost&logoColor=white)  
+![Last Commit](https://img.shields.io/github/last-commit/qstackfield/vanta-capital-intelligence)
+![Repo Stars](https://img.shields.io/github/stars/qstackfield/vanta-capital-intelligence?style=social)
+![Issues](https://img.shields.io/github/issues/qstackfield/vanta-capital-intelligence)
+
+---
 
 **Quinton Stackfield**  
 *AI Systems Architect | Autonomous Markets Builder*  
-[LinkedIn](https://www.linkedin.com/in/qstackfield) • [GitHub](https://github.com/qstackfield)  
+[LinkedIn](https://www.linkedin.com/in/qstackfield) • [GitHub](https://github.com/qstackfield)
 
-</div>
+---
+
+> ⚡ *Closed-loop AI operating system for capital markets — real-time ingestion, belief-stacked ensembles, autonomous vault allocation, and replayable audit DAGs.*
+
+---
 
 ## 📑 Table of Contents
-- [Overview](#-overview)
-- [Purpose](#-purpose)
-- [Data Domains & Feeds](#-data-domains--feeds)
-- [System Architecture](#-system-architecture)
-- [Model Layer](#-model-layer)
-- [Model Ops](#-model-ops)
-- [KPIs](#-kpis)
-- [Security & Governance](#-security--governance)
-- [Vaults & Capital Allocation](#-vaults--capital-allocation)
-- [README ↔ Server Mapping](#-readme--server-mapping)
-- [Roadmap](#-roadmap)
-- [Final Notes](#-final-notes)
+- [🔎 Overview](#-overview)
+- [🎯 Purpose](#-purpose)
+- [🌐 Data Domains & Feeds](#-data-domains--feeds)
+- [🏗 System Architecture](#-system-architecture)
+- [🤖 Model Layer](#-model-layer)
+- [⚙️ Model Ops](#️-model-ops)
+- [📊 KPIs](#-kpis)
+- [🔐 Security & Governance](#-security--governance)
+- [💰 Vaults & Capital Allocation](#-vaults--capital-allocation)
+- [📂 README ↔ Server Mapping](#-readme--server-mapping)
+- [🚀 Roadmap](#-roadmap)
+- [🏁 Final Notes](#-final-notes)
 
 ---
 
