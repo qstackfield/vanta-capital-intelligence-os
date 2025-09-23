@@ -1,4 +1,4 @@
-<<div align="center">
+<div align="center">
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 💰📈 **VANTA OS — Autonomous Capital Intelligence Stack** 📊🔐  
