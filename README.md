@@ -1,4 +1,8 @@
-# 🧠 Vanta — Autonomous Capital Intelligence OS  
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+💰📈 **VANTA OS — Autonomous Capital Intelligence Stack** 📊🔐  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![MLflow](https://img.shields.io/badge/ML-Ops-MLflow-green?logo=mlflow&logoColor=white)
@@ -10,12 +14,13 @@
 ![PnL](https://img.shields.io/badge/PnL-Compounding%20Vaults%20%2B25%25-green?logo=dollar&logoColor=white)
 ![AutoTrading](https://img.shields.io/badge/Execution-Auto%20Trading%20Engine-blueviolet?logo=lightning&logoColor=white)
 ![Drift](https://img.shields.io/badge/Monitoring-Drift%20Detection%20%3C24h-yellow?logo=airbnb&logoColor=white)
-![Personas](https://img.shields.io/badge/AI-Persona%20Simulators-critical?logo=ghost&logoColor=white)
+![Personas](https://img.shields.io/badge/AI-Persona%20Simulators-critical?logo=ghost&logoColor=white)  
 
 **Quinton Stackfield**  
-AI Systems Architect | Autonomous Markets Builder  
+*AI Systems Architect | Autonomous Markets Builder*  
 [LinkedIn](https://www.linkedin.com/in/qstackfield) • [GitHub](https://github.com/qstackfield)  
 
+</div>
 ---
 
 ## 📑 Table of Contents
