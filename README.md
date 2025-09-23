@@ -506,3 +506,9 @@ operating across **Alpha, Markets, and Executor nodes**.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/qstackfield)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://github.com/qstackfield)  
 
+---
+## 🔗 Related Repos
+
+- [VANTA Platform – Subscriptions & Vault Mirroring](https://github.com/qstackfield/vanta-platform)  
+  Business layer for capital-aligned fees, referrals, and user-facing apps.
+
