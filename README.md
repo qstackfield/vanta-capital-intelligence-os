@@ -79,7 +79,7 @@ What sets it apart:
 
 In short:  
 VANTA OS is **the first governed, replayable, persona-reinforced capital OS**, not a bot or a signal seller.  
-It encodes **how capital should think, act, and govern itself** — in real time, across rails, without trust gaps.
+It encodes **how capital should think, act, and govern itself** - in real time, across rails, without trust gaps.
 
 ---
 
