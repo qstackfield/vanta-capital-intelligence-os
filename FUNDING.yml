@@ -1,7 +1,12 @@
 # .github/FUNDING.yml
-# Configure funding links (GitHub Sponsors, Stripe, or custom URLs)
+# Configure sponsor & funding links
 
 github: qstackfield
+
 custom:
   - "https://www.linkedin.com/in/qstackfield"
   - "https://github.com/qstackfield/vanta-capital-intelligence-os"
+  - "https://buy.stripe.com/YOUR_CUSTOM_STRIPE_LINK"   # Replace with your Stripe checkout URL
+  - "bitcoin:YOUR_BTC_WALLET_ADDRESS"                  # Replace with your BTC address
+  - "ethereum:YOUR_ETH_WALLET_ADDRESS"                 # Replace with your ETH address
+  - "usdt:YOUR_USDT_WALLET_ADDRESS"                    # Optional stablecoin wallet
