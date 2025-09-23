@@ -213,15 +213,52 @@ Every inference cycle outputs a **conviction vector**, which carries scores, rea
 - **TTL:** signal half-life for decay and pruning.  
 - **routing_tags:** directs output to vault allocators, dashboards, or executors.  
 
-The **Model Layer** ensures that Vanta is not just ingesting data but **reasoning about it** — producing **transparent, persona-aware conviction outputs** ready for allocation and execution.  
+The **Model Layer** ensures that Vanta is not just ingesting data but **reasoning about it** - producing **transparent, persona-aware conviction outputs** ready for allocation and execution.  
+
 ---
-## ⚙️ Model Ops
-- **Registry:** MLflow-backed with lineage, metrics, hyperparams  
-- **Retraining:** rolling-window retrains with shadow→live promotion  
-- **CI/CD:** GitOps pipelines auto-promoting on drift alarms  
-- **Monitoring:** PSI/KL divergence, ingestion lag dashboards, feature SLOs  
-- **Explainability:** SHAP/LIME overlays + GPT-style rationales  
-- **Backtesting:** multi-year replay harness with vault-level PnL attribution  
+## ⚙️ Model Ops  
+
+The **Model Ops layer** governs the lifecycle, monitoring, and explainability of all models in Vanta OS. It ensures that every signal is **traceable, auditable, and continuously retrained** for resilience in adversarial markets.  
+
+### Subsystems  
+
+- **Registry**  
+  - **MLflow-backed registry** with lineage, hyperparameter storage, and experiment tracking.  
+  - Each model version tagged with data slice, persona overlays, and drift metrics.  
+  - Registry links directly to `/opt/vanta/tools/vault_alignment.py` for vault-aware promotion.  
+
+- **Retraining**  
+  - **Rolling-window retrains** across equities, options, and crypto domains.  
+  - **Shadow→live pipeline:** new models first run in shadow mode, producing metrics alongside live production signals.  
+  - Promotion only if **PnL attribution** > baseline and **precision@5** sustained.  
+
+- **CI/CD**  
+  - **GitOps pipelines** for model deployment, triggered by drift alarms or scheduled retrains.  
+  - Canary deployments on **Executor node** with rollback hooks.  
+  - Integration with persona simulators for scenario stress tests before release.  
+
+- **Monitoring**  
+  - Drift detection via **PSI (Population Stability Index)** and **KL divergence**.  
+  - **Lag dashboards** track ingestion → vector latency across nodes.  
+  - **Feature SLOs:** alerts when enrichment or entity resolution pipelines exceed thresholds.  
+
+- **Explainability**  
+  - **SHAP/LIME overlays** tied to every conviction vector, showing feature contributions.  
+  - **GPT rationale generator** produces human-readable justifications for dashboards and audits.  
+  - Persona-aware explanations: *“Risk-averse persona flagged insider cluster + volatility skew.”*  
+
+- **Backtesting & Replay**  
+  - **Multi-year replay harness** for testing new models against historical vault data.  
+  - **PnL attribution bundles** provide model-level contribution breakdowns.  
+  - Replay DAGs are append-only, ensuring compliance and reproducibility.  
+
+### Outputs  
+
+- **Model health dashboards** (latency, drift, retrain cadence).  
+- **Audit trails** mapping every signal → model version → conviction vector → execution.  
+- **Compliance packs** exportable for FINRA/SEC reviews.  
+
+The Model Ops layer guarantees that Vanta’s models are **not static scripts** but **living, continuously evolving systems**, aligned with capital allocation and regulatory-grade auditability.  
 
 ---
 
