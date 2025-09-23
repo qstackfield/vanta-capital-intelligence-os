@@ -1,49 +1,49 @@
-# 💰 VANTA OS - Autonomous Capital Intelligence Stack 📊🔐  
+# 💰 VANTA OS — Autonomous Capital Intelligence Stack 📊🔐
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### 📊 GitHub Activity  
+## 📊 GitHub Activity  
 [![Stars](https://img.shields.io/github/stars/qstackfield/vanta-capital-intelligence-os?style=social)](https://github.com/qstackfield/vanta-capital-intelligence-os/stargazers)
 [![Forks](https://img.shields.io/github/forks/qstackfield/vanta-capital-intelligence-os?style=social)](https://github.com/qstackfield/vanta-capital-intelligence-os/network/members)
-[![Watchers](https://img.shields.io/github/watchers/qstackfield/vanta-capital-intelligence-os?style=social)](https://github.com/qstackfield/vanta-capital-intelligence-os/watchers)
+[![Watchers](https://img.shields.io/github/watchers/qstackfield/vanta-capital-intelligence-os?style=social)](https://github.com/qstackfield/vanta-capital-intelligence-os/watchers)  
 [![Issues](https://img.shields.io/github/issues/qstackfield/vanta-capital-intelligence-os)](https://github.com/qstackfield/vanta-capital-intelligence-os/issues)
 [![Last Commit](https://img.shields.io/github/last-commit/qstackfield/vanta-capital-intelligence-os)](https://github.com/qstackfield/vanta-capital-intelligence-os/commits/main)
 [![License](https://img.shields.io/github/license/qstackfield/vanta-capital-intelligence-os)](./LICENSE)
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### ⚙️ System / Status  
+## ⚙️ System / Status  
+
+**Core Build**  
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![Coverage](https://img.shields.io/badge/coverage-85%25-yellow.svg)
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-green.svg)
 ![Code Style](https://img.shields.io/badge/code%20style-black-black.svg)
 
+**Resilience**  
 ![Secure](https://img.shields.io/badge/Secure-By%20Design-blue.svg)
 ![Audit](https://img.shields.io/badge/Audit-Immutable%20Logs-orange.svg)
 ![Uptime](https://img.shields.io/badge/Uptime-99.9%25-brightgreen.svg)
 ![Monitoring](https://img.shields.io/badge/Monitoring-Enabled-blue.svg)
 ![Drift Detection](https://img.shields.io/badge/Drift%20Detection-<24h-red.svg)
 
+**Execution**  
 ![Execution](https://img.shields.io/badge/Execution-Auto%20Trading%20Engine-purple.svg)
 ![Vaults](https://img.shields.io/badge/Vaults-Compounding%20%2B25%25-green.svg)
 ![Audit DAGs](https://img.shields.io/badge/Audit%20DAGs-Replayable%20Enabled-lightgrey.svg)
 ![Shadow](https://img.shields.io/badge/Shadow-Testing%20On-blueviolet.svg)
 ![AI](https://img.shields.io/badge/AI-Persona%20Simulators-lightgrey.svg)
 
+**Performance**  
 ![Sharpe Ratio](https://img.shields.io/badge/Sharpe%20Ratio-2.11-purple.svg)
 ![PnL](https://img.shields.io/badge/PnL-Tracked%20Daily-brightgreen.svg)
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 
 **Quinton Stackfield**  
 _AI Systems Architect | Autonomous Markets Builder_  
 [LinkedIn](https://www.linkedin.com/in/qstackfield) • [GitHub](https://github.com/qstackfield)  
-
----
-
-> ⚡ *Closed-loop AI operating system for capital markets - real-time ingestion, belief-stacked ensembles, autonomous vault allocation, and replayable audit DAGs.*
-
 ---
 
 ## 📑 Table of Contents
