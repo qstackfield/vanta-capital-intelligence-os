@@ -336,7 +336,7 @@ KPIs make Vanta not just measurable, but **auditable against real PnL and capita
 
 ## 🔐 Security & Governance  
 
-Vanta OS is designed for **institution-grade resilience**, with layered controls across orchestration, reflection, and execution nodes. Security and governance are not add-ons — they are **core primitives**.  
+Vanta OS is designed for **institution-grade resilience**, with layered controls across orchestration, reflection, and execution nodes. Security and governance are not add-ons - they are **core primitives**.  
 
 ### Role-Based Access Control (RBAC)  
 - **Alpha Node** → orchestration, assistant memory, and tracker management.  
@@ -388,7 +388,7 @@ Vanta’s governance framework ensures that **capital can be loaned, allocated, 
 
 ## 📂 README ↔ Server Mapping
 Each section maps directly to deployed modules in `/opt/vanta/`.  
-This is **not conceptual** — it’s live across Alpha / Markets / Executor nodes.  
+This is **not conceptual** - it’s live across Alpha / Markets / Executor nodes.  
 
 **Overview & Purpose**  
 - `/opt/vanta/build/vanta_orchestrator.py` → orchestration kernel  
@@ -451,7 +451,7 @@ This is **not conceptual** — it’s live across Alpha / Markets / Executor nod
 ---
 
 ## 🏁 Final Notes
-This README is not a whitepaper — it maps directly to deployed infrastructure running across Alpha, Markets, and Executor.  
+This README is not a whitepaper - it maps directly to deployed infrastructure running across Alpha, Markets, and Executor.  
 Every collector, scorer, and vault exists as a Python module with live memory and logs.  
 
 Vanta is a **closed-loop autonomous OS:**  
