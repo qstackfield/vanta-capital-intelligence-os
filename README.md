@@ -476,3 +476,15 @@ Harvest → Enrich → Reason → Act → Audit → Retrain
 [![PnL](https://img.shields.io/badge/PnL-Tracked%20Daily-brightgreen.svg)]()  
 
 ---
+
+## 👥 Contributors & Credits  
+
+- **Quinton Stackfield** — AI Systems Architect & Builder  
+- Built and maintained as part of the **VANTA OS** research + production stack  
+- Special thanks to the open-source ML/infra community (PyTorch, Kafka, Redis, Neo4j, MLflow)  
+
+---
+
+📫 For collaboration or inquiries:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/qstackfield)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://github.com/qstackfield)  
