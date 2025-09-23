@@ -61,14 +61,19 @@ Unlike scrapers or retail scripts, Vanta fuses:
 Every decision is **auditable, replayable, and attributable down to signal lineage**, enabling institutional-grade confidence in fully autonomous execution.  
 ---
 
-## 🎯 Purpose
-Deliver **real-time conviction vectors** with explainable reasoning chains across equities, derivatives, and crypto.  
-- Detect insider clusters → SEC Form 4 / 13F activity  
-- Surface retail cascades → Reddit, Twitter/X, Discord, Telegram  
-- Quantify institutional footprints → dark pools, sweeps, block trades  
-- Integrate on-chain telemetry → whale wallets, stablecoin mint/burn, mempool anomalies  
-- Route ranked conviction signals → vault overlays + auto-trading engines  
+## 🎯 Purpose  
 
+Vanta’s mission is to deliver **real-time conviction vectors** with explainable reasoning chains across equities, derivatives, and crypto — routed through autonomous vault allocators and execution engines.  
+
+Core objectives:  
+- 🕵️ **Detect insider clusters** → SEC Form 4 & 13F activity, mapped to ticker embeddings  
+- 🌐 **Surface retail cascades** → Reddit, Twitter/X, Telegram, Discord (with bot-swarm detection)  
+- 🏦 **Quantify institutional footprints** → dark pools, block trades, sweep activity, volatility skews  
+- ⛓ **Integrate on-chain telemetry** → whale wallets, mempool anomalies, stablecoin mint/burn  
+- 🧮 **Route ranked conviction signals** → conviction vectors weighted by belief stackers, scored against historical PnL bands  
+- 💰 **Enable vault-level autonomy** → conviction signals flow into vault allocators with risk caps, reinvestment curves, and auto-trading engines  
+
+This purpose makes Vanta **more than a signal generator** — it is an **end-to-end autonomous market operator** capable of reasoning, allocating, and executing with institutional precision.  
 ---
 
 ## 🌐 Data Domains & Feeds
