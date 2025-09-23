@@ -75,7 +75,7 @@ Every decision is **auditable, replayable, and attributable down to signal linea
 
 ## 🎯 Purpose  
 
-Vanta’s mission is to deliver **real-time conviction vectors** with explainable reasoning chains across equities, derivatives, and crypto — routed through autonomous vault allocators and execution engines.  
+Vanta’s mission is to deliver **real-time conviction vectors** with explainable reasoning chains across equities, derivatives, and crypto - routed through autonomous vault allocators and execution engines.  
 
 Core objectives:  
 - 🕵️ **Detect insider clusters** → SEC Form 4 & 13F activity, mapped to ticker embeddings  
