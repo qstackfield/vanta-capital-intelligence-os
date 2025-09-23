@@ -262,21 +262,101 @@ The Model Ops layer guarantees that Vanta’s models are **not static scripts** 
 
 ---
 
-## 📊 KPIs
-- **Latency:** < 2s ingestion → conviction vector  
-- **Precision@5:** ≥ 0.75 shadow→live  
-- **Vault Compounding:** track reinvestment % + vault growth curves  
-- **PnL Attribution:** stratified daily by conviction band + vault  
-- **Drift Detection:** PSI alarms < 24h if >5% shift  
-- **SLA:** ≥ 99.9% uptime for ingestion + execution  
+## 📊 KPIs  
+
+The **Key Performance Indicators (KPIs)** track Vanta OS across ingestion, modeling, and execution layers. Each KPI is tied to live logs under `/opt/vanta/logs/` and vault JSONs under `/opt/vanta/memory/`.  
+
+### Core KPIs  
+
+- **Latency**  
+  - Ingestion → conviction vector in **< 2 seconds**.  
+  - Measured via `vanta-daily-runtime.log`.  
+
+- **Precision@5**  
+  - Shadow vs. live transition accuracy ≥ **0.75**.  
+  - Benchmarked using `signal_leaderboard.py`.  
+
+- **Vault Compounding**  
+  - Tracks **reinvestment %** and realized growth curves per vault.  
+  - Measured in `vault.json` and `vault_overlay.json`.  
+
+- **PnL Attribution**  
+  - Daily attribution stratified by conviction band + vault.  
+  - Reported in `pnl_summary.json`.  
+
+- **Drift Detection**  
+  - PSI alarms triggered if **> 5% distribution shift** within 24h.  
+  - Logged in `system_risk.json`.  
+
+- **SLA / Uptime**  
+  - ≥ **99.9% uptime** across ingestion + execution nodes.  
+  - Audited from `vanta-daily.log`.  
+
+### Advanced Metrics  
+
+- **Sharpe Ratio**  
+  - Rolling vault-level Sharpe, target > **2.0**.  
+
+- **Conviction Vector Stability**  
+  - % of signals holding conviction rank for multiple cycles.  
+
+- **Persona Diversity Index**  
+  - Variance across persona overlays (risk-averse, contrarian, aggressive).  
+
+- **Capital Utilization**  
+  - % of vault capital actively allocated by auto-trading engine.  
+
+### Why These Matter  
+
+These KPIs move beyond “accuracy” into **capital efficiency** and **resilience**:  
+- Latency ensures Vanta reacts faster than competitors.  
+- Precision and attribution guarantee explainable alpha.  
+- Vault compounding demonstrates sustainable growth curves.  
+- Drift and SLA metrics guarantee **enterprise-grade reliability**.  
+
+KPIs make Vanta not just measurable, but **auditable against real PnL and capital allocation outcomes**.  
 
 ---
 
-## 🔐 Security & Governance
-- **RBAC:** Alpha = orchestration; Markets = reflection; Executor = trading  
-- **Encryption:** TLS mutual auth, Vault-managed secrets, field-level masking  
-- **Auditability:** append-only logs, replayable DAGs, immutable vaults  
-- **Compliance:** FINRA/SEC hygiene, broker API guardrails, exportable audit bundles  
+## 🔐 Security & Governance  
+
+Vanta OS is designed for **institution-grade resilience**, with layered controls across orchestration, reflection, and execution nodes. Security and governance are not add-ons — they are **core primitives**.  
+
+### Role-Based Access Control (RBAC)  
+- **Alpha Node** → orchestration, assistant memory, and tracker management.  
+- **Markets Node** → ingestion, reflection, scoring.  
+- **Executor Node** → live trading execution + broker integration.  
+- Each role is scoped at the node level with **least-privilege enforcement**.  
+
+### Encryption & Secrets Management  
+- **TLS 1.3 mutual authentication** across all inter-node traffic.  
+- **HashiCorp Vault** (or equivalent) for secrets distribution.  
+- **Field-level encryption** for sensitive data (e.g., PHI/PII in health variants, account keys).  
+
+### Auditability & Compliance  
+- **Append-only logs** for every signal, score, and trade.  
+- **Replayable DAGs** → entire inference + execution path can be reconstructed.  
+- **Immutable vaults** (JSON memory structures) with overlays for audit trails.  
+- Compliance alignment:  
+  - **FINRA/SEC** for equities and options.  
+  - **Jurisdictional gaming regulations** for betting overlays.  
+  - **Future-state HIPAA** for health data (inherited from Aegis).  
+
+### Governance Overlays  
+- **Conviction Thresholds** → dynamic kill-switches and stop-loss governance.  
+- **Persona Balancing** → allocations automatically adjusted across risk-averse, contrarian, and aggressive personas.  
+- **Vault Allocation Logic** → ensures capital limits per signal, per cycle.  
+- **Shadow Deployments** → strategies are tested in replay before going live.  
+
+### Enterprise-Grade Controls  
+- **99.9% SLA enforcement** with monitoring of ingestion/execution liveness.  
+- **Isolation by containerization** (per module sandboxing).  
+- **Node failover orchestration** → continuity even if Markets or Executor is unavailable.  
+
+---
+
+**Why This Matters:**  
+Vanta’s governance framework ensures that **capital can be loaned, allocated, and risk-managed automatically** without requiring manual oversight. Investors and operators can verify every decision post-hoc, guaranteeing **trustworthy autonomy** in high-stakes environments.  
 
 ---
 
