@@ -497,3 +497,7 @@ Harvest → Enrich → Reason → Act → Audit → Retrain
 📫 For collaboration or inquiries:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/qstackfield)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://github.com/qstackfield)  
+
+══════════════════════════════════════════════════════════════════
+      End of VANTA OS — Autonomous Capital Intelligence Stack
+══════════════════════════════════════════════════════════════════
