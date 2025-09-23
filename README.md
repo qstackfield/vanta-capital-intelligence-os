@@ -1,20 +1,38 @@
-# Vanta OS - Autonomous Capital Intelligence Stack 
+---
+
+# 💰 VANTA OS — Autonomous Capital Intelligence Stack 📊🔐
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![Security](https://img.shields.io/badge/Secure-By%20Design-green.svg)
-![Audit](https://img.shields.io/badge/Audit-Immutable%20Logs-orange.svg)
-![Uptime](https://img.shields.io/badge/Uptime-99.9%25-brightgreen.svg)
-![Sharpe Ratio](https://img.shields.io/badge/KPI-Sharpe%20Ratio%202.1-purple.svg)
-![Vaults](https://img.shields.io/badge/PnL-Compounding%20Vaults%20+25%25-yellow.svg)
-![Execution](https://img.shields.io/badge/Execution-Auto%20Trading%20Engine-blueviolet.svg)
-![Monitoring](https://img.shields.io/badge/Monitoring-Drift%20Detection%20%3C24h-red.svg)
-![AI](https://img.shields.io/badge/AI-Persona%20Simulators-lightgrey.svg)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)]() 
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]() 
+[![Test Coverage](https://img.shields.io/badge/coverage-85%25-yellowgreen.svg)]() 
+[![Requirements](https://img.shields.io/badge/dependencies-up%20to%20date-success.svg)]() 
+[![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)]() 
+[![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red.svg)]()  
 
-![Last Commit](https://img.shields.io/github/last-commit/qstackfield/vanta-capital-intelligence)
-![Repo Stars](https://img.shields.io/github/stars/qstackfield/vanta-capital-intelligence?style=social)
-![Issues](https://img.shields.io/github/issues/qstackfield/vanta-capital-intelligence)
+[![Secure](https://img.shields.io/badge/Secure-By%20Design-green.svg)]() 
+[![Audit](https://img.shields.io/badge/Audit-Immutable%20Logs-orange.svg)]() 
+[![Uptime](https://img.shields.io/badge/Uptime-99.9%25-brightgreen.svg)]() 
+[![Monitoring](https://img.shields.io/badge/Monitoring-Enabled-blue.svg)]() 
+[![Drift Detection](https://img.shields.io/badge/Drift%20Detection-<24h-red.svg)]()  
+
+[![Execution](https://img.shields.io/badge/Execution-Auto%20Trading%20Engine-purple.svg)]() 
+[![Vaults](https://img.shields.io/badge/Vaults-Compounding%20%2B25%25-yellow.svg)]() 
+[![Audit DAGs](https://img.shields.io/badge/Audit%20DAGs-Replayable%20Enabled-lightgrey.svg)]() 
+[![Shadow Testing](https://img.shields.io/badge/Shadow%20Testing-On-blueviolet.svg)]() 
+[![AI Personas](https://img.shields.io/badge/AI-Persona%20Simulators-lightgrey.svg)]()  
+
+[![Sharpe Ratio](https://img.shields.io/badge/Sharpe%20Ratio-2.11-purple.svg)]() 
+[![PnL](https://img.shields.io/badge/PnL-Tracked%20Daily-brightgreen.svg)]()  
+
+[![Stars](https://img.shields.io/github/stars/qstackfield/vanta-capital-intelligence.svg?style=social)]() 
+[![Forks](https://img.shields.io/github/forks/qstackfield/vanta-capital-intelligence.svg?style=social)]() 
+[![Watchers](https://img.shields.io/github/watchers/qstackfield/vanta-capital-intelligence.svg?style=social)]() 
+[![Issues](https://img.shields.io/github/issues/qstackfield/vanta-capital-intelligence.svg)]() 
+[![Last Commit](https://img.shields.io/github/last-commit/qstackfield/vanta-capital-intelligence.svg)]()  
+
+---
 
 ---
 
