@@ -39,7 +39,7 @@
 **AI Systems Architect | Autonomous Markets Builder**  
 [LinkedIn](https://www.linkedin.com/in/qstackfield) · [GitHub](https://github.com/qstackfield)
 
-## ⚡ Why VANTA OS Is Different
+## Why VANTA OS Is Different
 
 VANTA OS is not another trading bot or signal feed.  
 It is a **capital intelligence operating system** engineered to make autonomous reasoning, vault allocation, and live execution **trustworthy at scale**.  
