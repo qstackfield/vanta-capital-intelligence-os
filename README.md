@@ -91,6 +91,7 @@ Core objectives:
 - 💰 **Enable vault-level autonomy** → conviction signals flow into vault allocators with risk caps, reinvestment curves, and auto-trading engines  
 
 This purpose makes Vanta **more than a signal generator** - it is an **end-to-end autonomous market operator** capable of reasoning, allocating, and executing with institutional precision.  
+
 ---
 
 ## 🌐 Data Domains & Feeds  
