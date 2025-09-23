@@ -456,16 +456,21 @@ Harvest → Enrich → Reason → Act → Audit → Retrain
 
 ## 🔒 Internal Repositories (Private)
 
-This public README showcases the architecture and design of **Vanta OS**, but the full system spans several private repositories that contain the production codebase, deployment configs, and dashboards. These remain private to preserve proprietary IP and execution strategies.
+This public README showcases the architecture and design of **VANTA OS**,  
+but the production system spans several private repositories.  
+These remain private to protect proprietary IP, deployment configs, and trading strategies.  
 
 - **vanta-config** → Deployment orchestration, environment configs, secrets management.  
 - **vanta-modules** → Core ingestion, feature engineering, conviction scoring, and trade execution modules.  
-- **vanta-dashboards** → Internal Next.js dashboards for live monitoring, belief heatmaps, and PnL reporting.  
-- **vanta-simulations** → Backtesting harnesses, replay engines, and reinforcement-learning experiments.  
-- **vanta-assistant** → Memory-aware assistant tooling for node orchestration and operator interaction.  
+- **vanta-dashboards** → Internal Next.js dashboards for live monitoring, conviction heatmaps, and PnL reporting.  
+- **vanta-simulations** → Backtesting harnesses, replay engines, reinforcement-learning experiments.  
+- **vanta-assistant** → Memory-aware operator assistant for orchestration, debugging, and human-in-the-loop interaction.  
 
-Each private repo maps directly to sections described here (see *README ↔ Server Mapping*).  
-Together, these repos form the full **Autonomous Capital Intelligence Stack** operating across Alpha, Markets, and Executor nodes.
+Each private repo maps directly to sections described above  
+(see **README ↔ Server Mapping**).  
+Together, these repos form the full **Autonomous Capital Intelligence Stack**  
+operating across **Alpha, Markets, and Executor nodes**.
+
 ---
 
 ## 📟 System Status — VANTA OS
