@@ -76,13 +76,18 @@ Core objectives:
 This purpose makes Vanta **more than a signal generator** - it is an **end-to-end autonomous market operator** capable of reasoning, allocating, and executing with institutional precision.  
 ---
 
-## 🌐 Data Domains & Feeds
-- **Regulatory:** SEC Atom (Form 4/13F)  
-- **Social & Sentiment:** Reddit stealth scrapers, Twitter/X streams, Telegram chatter, darknet groups  
-- **Market Microstructure:** Options sweeps, dark pool prints, volatility skew, order book imbalance  
-- **Macro & News:** RSS aggregators, Substack/blogs, financial APIs, economic calendars  
-- **Crypto & Alt Assets:** On-chain DEX flows, staking/unstaking, whale wallets, mempool spikes  
-- **Telemetry:** ingestion lag, drift metrics, vault compounding curves, persona flip events  
+## 🌐 Data Domains & Feeds  
+
+Vanta ingests from a **multi-modal spectrum of domains**, ensuring orthogonal coverage across regulatory, social, market, macro, crypto, and telemetry layers. Each domain is routed through collectors → enrichment → entity resolution before surfacing in conviction vectors.  
+
+- 📜 **Regulatory** → SEC Atom feeds (Form 4 insider filings, 13F institutional holdings), mapped to insider→ticker embeddings  
+- 💬 **Social & Sentiment** → Reddit stealth scrapers (WSB, investing, options), Twitter/X dynamic streams, Telegram/Discord chatter with swarm/botnet detection  
+- 📊 **Market Microstructure** → options sweepers, dark pool prints, block trades, order book imbalance, volatility surface skew monitoring  
+- 📰 **Macro & News** → RSS aggregators, Substack/blogs, economic calendars, financial APIs, curated news sentiment engines  
+- ₿ **Crypto & Alt Assets** → on-chain DEX flows, whale wallet clustering, mempool watchers, stablecoin mint/burn anomalies, staking/unstaking telemetry  
+- 📡 **Telemetry & Meta-Signals** → ingestion lag monitors, drift metrics, vault compounding curves, persona simulation feedback loops  
+
+By fusing these feeds, Vanta transforms **heterogeneous raw data** into **cohesive market intelligence streams**, ensuring redundancy, adversarial coverage, and low-latency alignment.   
 
 ---
 
