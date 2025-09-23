@@ -1,4 +1,4 @@
-# 💰 VANTA OS — Autonomous Capital Intelligence Stack 📊🔐
+# 💰 VANTA OS - Autonomous Capital Intelligence Stack 📊🔐
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue" />
