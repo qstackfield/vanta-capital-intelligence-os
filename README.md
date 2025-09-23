@@ -165,17 +165,55 @@ By design, Vanta ensures that every **collector, transformation, and decision is
 
 ---
 
-## 🤖 Model Layer
-- **Anomaly Detection:** IsolationForest, rolling z-score, Bayesian changepoint  
-- **Forecasting:** Temporal Fusion Transformers (TFT), DeepAR, Prophet  
-- **Classification:** XGBoost / LightGBM directional classifiers  
-- **Graph Models:** Neo4j insider + wallet clustering, belief propagation  
-- **Meta-Belief Stacker:** ensemble weighting with persona overrides + reinforcement bias  
+## 🤖 Model Layer  
 
-**Conviction Vector Schema:**  
-```text
-| signal_id | conviction_score | reason_vector | contributing_models | TTL | routing_tags |
-```
+The **Model Layer** is the reasoning core of Vanta OS, transforming raw signals into **conviction-ranked intelligence vectors**. It is architected as a **multi-model ensemble stack** with explainability and persona reinforcement baked in.  
+
+### Subsystems  
+
+- **Anomaly Detection**  
+  - IsolationForest for multi-variate outlier scoring.  
+  - Rolling z-score monitors for short-horizon market deviations.  
+  - Bayesian changepoint detection for structural breaks in time series (e.g., regime shifts).  
+  - Persona-weighted reinforcement: e.g., risk-averse persona amplifies anomaly flags, contrarian suppresses them.  
+
+- **Forecasting**  
+  - **Temporal Fusion Transformers (TFT):** multi-horizon financial forecasting.  
+  - **DeepAR:** probabilistic sequence models for options sweeps and order flow.  
+  - **Prophet:** macro / seasonal drivers (earnings cycles, Fed announcements).  
+  - Shadow/live dual inference pipelines ensure drift-resistant forecasts.  
+
+- **Classification**  
+  - **XGBoost & LightGBM classifiers** for directional probabilities (upside/downside in equities/options).  
+  - Ensemble classifiers for **prop hit probability** in derivative strategies.  
+  - Persona overlays inject different thresholds (e.g., aggressive personas lower confidence cutoffs).  
+
+- **Graph Models**  
+  - **Neo4j graph embeddings** link insiders → tickers → wallets → chatter IDs.  
+  - Detects **clusters of influence** (e.g., insider filings co-occurring with Reddit surges and crypto wallet flows).  
+  - Supports path queries for hybrid reasoning: *“Is this signal driven by insiders, retail, or coordinated?”*  
+
+- **Meta-Belief Stacker**  
+  - Core ensemble aggregator combining forecasts, anomalies, classifiers, and graph signals.  
+  - Uses weighted voting + persona reinforcement to construct conviction vectors.  
+  - Supports **flip mode** (parallel evaluation of alternative paths → “what if” scenarios).  
+  - Produces both **conviction score** and **reason vector** (explainable rationale chain).  
+
+### Conviction Vector Schema  
+
+Every inference cycle outputs a **conviction vector**, which carries scores, reasons, and routing metadata.  
+
+| signal_id | conviction_score | reason_vector | contributing_models | persona_overrides | TTL | routing_tags |
+
+- **signal_id:** unique UUID from collector layer.  
+- **conviction_score:** weighted probability, 0–1.  
+- **reason_vector:** concatenated explanations (e.g., “SEC Form 4 + Dark Pool Sweep + Retail Surge”).  
+- **contributing_models:** ensemble contributors and their weights.  
+- **persona_overrides:** adjustments from persona sims (risk-averse, aggressive, contrarian).  
+- **TTL:** signal half-life for decay and pruning.  
+- **routing_tags:** directs output to vault allocators, dashboards, or executors.  
+
+The **Model Layer** ensures that Vanta is not just ingesting data but **reasoning about it** — producing **transparent, persona-aware conviction outputs** ready for allocation and execution.  
 ---
 ## ⚙️ Model Ops
 - **Registry:** MLflow-backed with lineage, metrics, hyperparams  
