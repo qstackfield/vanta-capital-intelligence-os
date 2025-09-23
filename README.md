@@ -48,7 +48,7 @@ What sets it apart:
 
 - **Closed-Loop Autonomy**  
   Every cycle is end-to-end: ingest → enrich → reason → allocate → execute → audit → retrain.  
-  No external “human in the loop” required — but every decision is transparent and replayable.
+  No external “human in the loop” required - but every decision is transparent and replayable.
 
 - **Vaults as First-Class Primitives**  
   Signals don’t just rank. They **flow into vault allocators** that encode risk rails, persona overlays, and compounding logic.  
