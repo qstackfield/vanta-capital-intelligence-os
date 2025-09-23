@@ -14,12 +14,12 @@
   <img src="https://img.shields.io/badge/Audit-Immutable%20Logs-orange" />
   <img src="https://img.shields.io/badge/Uptime-99.9%25-brightgreen" />
   <img src="https://img.shields.io/badge/Monitoring-Enabled-blue" />
-  <img src="https://img.shields.io/badge/Drift%20Detection-<24h-red" />
+  <img src="https://img.shields.io/badge/Drift%20Detection-%3C24h-red" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Execution-Auto%20Trading%20Engine-purple" />
-  <img src="https://img.shields.io/badge/Vaults-Compounding%20+25%25-yellow" />
+  <img src="https://img.shields.io/badge/Vaults-Compounding%20%2B25%25-yellow" />
   <img src="https://img.shields.io/badge/Audit%20DAGs-Replayable%20Enabled-lightgrey" />
   <img src="https://img.shields.io/badge/AI-Persona%20Simulators-lightgrey" />
 </p>
