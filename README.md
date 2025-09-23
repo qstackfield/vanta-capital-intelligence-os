@@ -1,4 +1,4 @@
-# Autonomous Capital Intelligence Stack 
+# Vanta OS - Autonomous Capital Intelligence Stack 
 
 ---
 
