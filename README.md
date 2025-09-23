@@ -91,20 +91,77 @@ By fusing these feeds, Vanta transforms **heterogeneous raw data** into **cohesi
 
 ---
 
-## 🏗 System Architecture
-**Pipeline:** Collectors → Stream Bus → Pre-Enrichment → Entity Resolution → Feature Store → Model Ensemble → Conviction Scorer → Vault Allocator → Execution Router → Audit Harness  
+## 🏗 System Architecture  
 
-- **Collectors:** API pollers, stealth scrapers, SSE sockets, darknet listeners  
-- **Stream Bus:** Kafka/Redis backbone with partition isolation  
-- **Pre-Enrichment:** Deduplication, normalization, bot-swarm detection, temporal sync  
-- **Entity Resolution:** insider→ticker embeddings, wallet↔exchange mapping, persona graphs  
-- **Feature Store:** dual-tier → offline parquet/S3 + online Redis  
-- **Model Ensemble:** TFT/DeepAR/Prophet forecasters; IsolationForest anomalies; XGB/LGBM classifiers; Neo4j graphs  
-- **Conviction Scorer:** belief stacker generating conviction vectors with TTL + reason vectors  
-- **Vault Allocator:** turns conviction vectors into allocations across vault.json structures with persona overlays  
-- **Execution Router:** Alpaca, Tradier, CEX/DEX connectors with caps + kill switches  
-- **Audit DAGs:** append-only replayable inference DAGs with attribution + compliance bundles  
-- **Persona/Dream Engine:** persona simulators, contrarian/chaos flips, reinforcement dream agents  
+Vanta’s architecture is built for **real-time capital intelligence at production scale**, engineered to handle noisy heterogeneous data, preserve lineage, and drive autonomous execution with governance baked in.  
+
+Pipeline Flow:  
+Collectors → Stream Bus → Pre-Enrichment → Entity Resolution → Feature Store → Model Ensemble → Conviction Scorer → Vault Allocator → Broker Execution → Audit Harness → Replay  
+
+### Core Components  
+
+- **Collectors**  
+  - Containerized ingestion workers for APIs, stealth scrapers, SSE sockets, and darknet monitors.  
+  - Resilient to bans and obfuscation with rotating user agents, proxy pools, and retry/backoff strategies.  
+  - Includes specialized modules:  
+    - `reddit_stealth.py` (Reddit WSB + investing chatter with swarm detection)  
+    - `sec_scraper.py` (SEC Atom Form 4/13F)  
+    - `crypto_signals.py` (DEX flows, mempool spikes, whale wallets)  
+
+- **Stream Bus**  
+  - Kafka/Redis Streams backbone with **partition isolation per domain** (regulatory, sentiment, crypto).  
+  - Ensures **low-latency fan-out** to enrichment and feature pipelines.  
+  - Backpressure-aware with replay offsets for deterministic recovery.  
+
+- **Pre-Enrichment**  
+  - Deduplication, normalization, and temporal alignment across feeds.  
+  - Embeds metadata for model provenance (collector ID, source lag, normalization checksum).  
+  - Integrates **bot-swarm detection** for sentiment streams.  
+
+- **Entity Resolution**  
+  - Canonical graph aligning insiders ↔ tickers ↔ wallets ↔ sentiment IDs.  
+  - Backed by **Neo4j embeddings** and reinforcement from persona simulators.  
+  - Enables **cross-domain linkage** (e.g., insider filing linked to crypto wallet flows).  
+
+- **Feature Store**  
+  - **Dual-tier design:**  
+    - Offline → Parquet/S3 for backtesting, rolling aggregates.  
+    - Online → Redis for sub-10ms feature retrieval at inference.  
+  - Supports temporal joins, rolling windows, and vault overlays.  
+
+- **Model Ensemble**  
+  - DAG orchestration spanning anomaly detectors, forecasters, classifiers, and graph embeddings.  
+  - Persona simulators feed reinforcement signals into the stack (e.g., risk-averse vs contrarian weights).  
+  - Supports **parallel shadow/live inference** for model governance.  
+
+- **Conviction Scorer**  
+  - Weighted belief stacker producing ranked conviction vectors.  
+  - Includes explainability metadata: SHAP/LIME overlays + GPT rationales.  
+  - Conviction vectors route into vault allocators and execution routers.  
+
+- **Vault Allocator**  
+  - Converts conviction vectors into **capital allocation JSONs** (`vault.json`, `vault_overlay.json`).  
+  - Supports **compounding logic, reinvestment curves, stop-loss overlays**, and persona biases.  
+  - Backtests vault performance across historical replay windows.  
+
+- **Execution Router**  
+  - Broker API adapters: Alpaca (equities/options), Tradier (retail options), CEX/DEX connectors.  
+  - Risk-governed execution with conviction thresholds + persona overrides.  
+  - Supports **shadow-to-live transitions** with rollback hooks.  
+
+- **Audit DAGs**  
+  - Append-only inference DAGs capturing ingestion → transformations → features → model outputs → conviction scores → allocations → trades.  
+  - Fully replayable for compliance, attribution, and debugging.  
+  - Exportable to **dashboards + sanitized reporting**.  
+
+### Orchestration Across Nodes  
+
+- **Alpha Node** → Orchestration + global memory (assistant, trackers, vault overlays).  
+- **Markets Node** → Ingestion + reflection (collectors, entity resolution, ensembles).  
+- **Executor Node** → Trade execution + broker integrations.  
+- **Persona/Dream Layer** → Parallel reinforcement (risk-averse, contrarian, chaos sims) feeding conviction stack.  
+
+By design, Vanta ensures that every **collector, transformation, and decision is traceable** — making it not just a streaming system, but a **governed capital OS**.  
 
 ---
 
