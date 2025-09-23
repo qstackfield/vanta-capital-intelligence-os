@@ -1,0 +1,8 @@
+Copyright (c) 2025 Quinton Stackfield  
+All rights reserved.  
+
+This repository and its contents are proprietary and confidential.  
+No part of this software, documentation, or related materials may be copied, modified, distributed, or used without explicit written permission from the copyright holder.  
+
+Commercial licensing inquiries may be directed to:  
+https://www.linkedin.com/in/qstackfield
