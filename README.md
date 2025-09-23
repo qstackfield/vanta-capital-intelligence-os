@@ -1,3 +1,5 @@
+https://postimg.cc/yD4Dx3QB
+
 # VANTA OS - Autonomous Capital Intelligence Stack 📊🔐
 
 <p align="center">
