@@ -1,12 +1,19 @@
 # .github/FUNDING.yml
-# Configure sponsor & funding links
+# Configure sponsor & funding links for VANTA OS
+# Active links now: GitHub, LinkedIn, Repo
+# Future-ready: Stripe, BTC, ETH, USDT
 
 github: qstackfield
 
 custom:
+  # Professional profiles
   - "https://www.linkedin.com/in/qstackfield"
   - "https://github.com/qstackfield/vanta-capital-intelligence-os"
-  - "https://buy.stripe.com/YOUR_CUSTOM_STRIPE_LINK"   # Replace with your Stripe checkout URL
-  - "bitcoin:YOUR_BTC_WALLET_ADDRESS"                  # Replace with your BTC address
-  - "ethereum:YOUR_ETH_WALLET_ADDRESS"                 # Replace with your ETH address
-  - "usdt:YOUR_USDT_WALLET_ADDRESS"                    # Optional stablecoin wallet
+
+  # Stripe (add your live Payment Link here once created)
+  - "https://buy.stripe.com/YOUR_STRIPE_PAYMENT_LINK"
+
+  # Crypto wallet placeholders (replace with actual wallet addresses later)
+  - "https://blockchain.com/btc/address/YOUR_BTC_WALLET"
+  - "https://etherscan.io/address/YOUR_ETH_WALLET"
+  - "https://tronscan.org/#/address/YOUR_USDT_WALLET"
