@@ -86,3 +86,117 @@ Deliver **real-time conviction vectors** with explainable reasoning chains acros
 **Conviction Vector Schema:**  
 ```text
 | signal_id | conviction_score | reason_vector | contributing_models | TTL | routing_tags |
+
+---
+
+# 📌 PART 2 (Everything after Model Layer)
+
+```markdown
+## ⚙️ Model Ops
+- **Registry:** MLflow-backed with lineage, metrics, hyperparams  
+- **Retraining:** rolling-window retrains with shadow→live promotion  
+- **CI/CD:** GitOps pipelines auto-promoting on drift alarms  
+- **Monitoring:** PSI/KL divergence, ingestion lag dashboards, feature SLOs  
+- **Explainability:** SHAP/LIME overlays + GPT-style rationales  
+- **Backtesting:** multi-year replay harness with vault-level PnL attribution  
+
+---
+
+## 📊 KPIs
+- **Latency:** < 2s ingestion → conviction vector  
+- **Precision@5:** ≥ 0.75 shadow→live  
+- **Vault Compounding:** track reinvestment % + vault growth curves  
+- **PnL Attribution:** stratified daily by conviction band + vault  
+- **Drift Detection:** PSI alarms < 24h if >5% shift  
+- **SLA:** ≥ 99.9% uptime for ingestion + execution  
+
+---
+
+## 🔐 Security & Governance
+- **RBAC:** Alpha = orchestration; Markets = reflection; Executor = trading  
+- **Encryption:** TLS mutual auth, Vault-managed secrets, field-level masking  
+- **Auditability:** append-only logs, replayable DAGs, immutable vaults  
+- **Compliance:** FINRA/SEC hygiene, broker API guardrails, exportable audit bundles  
+
+---
+
+## 💰 Vaults & Capital Allocation
+- **Vault Engine:** JSON vaults (`vault.json`, `vault_overlay.json`) govern allocations  
+- **Allocation Logic:** conviction vectors → proportional or banded splits  
+- **Auto-Trading:** `autotrade_queue.json` → executed by Executor node with governance  
+- **Persona Profiles:** risk-averse, contrarian, aggressive overlays  
+- **Loan Mode:** exports external capital with isolated vaults + guardrails  
+- **Compounding:** realized PnL reinvested automatically into growth vaults  
+
+---
+
+## 📂 README ↔ Server Mapping
+Each section maps directly to deployed modules in `/opt/vanta/`.  
+This is **not conceptual** — it’s live across Alpha / Markets / Executor nodes.  
+
+**Overview & Purpose**  
+- `/opt/vanta/build/vanta_orchestrator.py` → orchestration kernel  
+- `/opt/vanta/build/vanta_summary_exporter.py` → explainable rationales  
+- `/opt/vanta/build/vanta_diagnostics.py` → audit + replay harness  
+
+**Data Domains & Feeds**  
+- Reddit → `/opt/vanta/tools/reddit_stealth.py`  
+- Twitter → `/opt/vanta/tools/twitter_dynamic.py`, `/opt/vanta/tools/twitter_stealth.py`  
+- SEC Filings → `/opt/vanta/tools/sec_scraper.py`  
+- Macro → `/opt/vanta/tools/macro_fred.py`  
+- Crypto → `/opt/vanta/tools/crypto_signals.py`, `/opt/vanta/tools/whale_wallets.py`  
+- News → `/opt/vanta/tools/news_signals.py`, `/opt/vanta/tools/substack_scraper.py`  
+
+**System Architecture**  
+- Collectors → `/opt/vanta/tools/*`  
+- Stream Bus → `/opt/vanta/tools/signal_beam.py`, `/opt/vanta/tools/signal_router.py`  
+- Pre-Enrichment → `/opt/vanta/tools/signal_decay.py`, `/opt/vanta/tools/signal_overlap_matrix.py`  
+- Entity Resolution → `/opt/vanta/tools/belief_chain.py`, `/opt/vanta/tools/belief_reinforcer.py`  
+- Feature Store → `/opt/vanta/memory/*.json`  
+- Model Ensemble → `/opt/vanta/tools/signal_reranker.py`, `/opt/vanta/tools/quiver_classifier.py`  
+- Conviction Scorer → `/opt/vanta/tools/meta_risk_engine.py`, `/opt/vanta/tools/signal_score_timeseries_tracker.py`  
+- Execution Router → `/opt/vanta/tools/trade_executor.py`  
+- Audit Logs → `/opt/vanta/logs/*.log`  
+
+**Model Layer**  
+- Forecasting → `/opt/vanta/tools/momentum_screener.py`  
+- Classification → `/opt/vanta/tools/quiver_classifier.py`  
+- Graph Models → `/opt/vanta/tools/insider_cluster.py`  
+- Meta-Belief Stacker → `/opt/vanta/tools/belief_synthesizer.py`  
+
+**Model Ops**  
+- Registry + Retraining → `/opt/vanta/tools/vault_alignment.py`, `/opt/vanta/tools/vault_overlay.py`  
+- Shadow Tests → `/opt/vanta/tools/reverse_simulation.py`, `/opt/vanta/tools/opponent_simulator.py`  
+- Drift Detection → `/opt/vanta/tools/signal_decay.py`, `/opt/vanta/memory/system_risk.json`  
+- Explainability → `/opt/vanta/tools/gpt_exit_planner.py`, `/opt/vanta/logs/reflection_digest.log`  
+
+**KPIs**  
+- Latency → `/opt/vanta/logs/vanta-daily-runtime.log`  
+- Precision → `/opt/vanta/tools/signal_leaderboard.py`  
+- PnL Attribution → `/opt/vanta/memory/pnl_summary.json`  
+- SLA → `/opt/vanta/logs/vanta-daily.log`  
+
+**Security & Governance**  
+- Alpha: orchestration node  
+- Markets: ingestion + reflection  
+- Executor: trading  
+- Vaults → `/opt/vanta/memory/vault*.json`  
+- Audit → `/opt/vanta/logs/*`  
+
+---
+
+## 🚀 Roadmap
+- Expand on-chain crypto ingestion  
+- Reinforcement-learning agents for strat refinement  
+- Next.js dashboards with conviction heatmaps  
+- Federated retraining pipelines for scaling  
+- Persona-aware reasoning (flip mode, risk-balancing personas)  
+
+---
+
+## 🏁 Final Notes
+This README is not a whitepaper — it maps directly to deployed infrastructure running across Alpha, Markets, and Executor.  
+Every collector, scorer, and vault exists as a Python module with live memory and logs.  
+
+Vanta is a **closed-loop autonomous OS:**  
+Harvest → Enrich → Reason → Act → Audit → Retrain  
