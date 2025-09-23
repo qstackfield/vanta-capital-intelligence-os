@@ -1,6 +1,6 @@
 # Contributing to VANTA OS
 
-Thank you for your interest in **VANTA OS — the Autonomous Capital Intelligence Stack**.  
+Thank you for your interest in **VANTA OS - the Autonomous Capital Intelligence Stack**.  
 At this stage, VANTA OS is under **active internal development**. The codebase is not open source, but we welcome structured input in the form of **issues, roadmap feedback, and discussions**.
 
 ---
