@@ -24,7 +24,7 @@
 
 ---
 
-> ⚡ *Closed-loop AI operating system for capital markets — real-time ingestion, belief-stacked ensembles, autonomous vault allocation, and replayable audit DAGs.*
+> ⚡ *Closed-loop AI operating system for capital markets - real-time ingestion, belief-stacked ensembles, autonomous vault allocation, and replayable audit DAGs.*
 
 ---
 
