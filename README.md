@@ -98,7 +98,7 @@ Vanta ingests from a **multi-modal spectrum of domains**, ensuring orthogonal co
 - ₿ **Crypto & Alt Assets** → on-chain DEX flows, whale wallet clustering, mempool watchers, stablecoin mint/burn anomalies, staking/unstaking telemetry  
 - 📡 **Telemetry & Meta-Signals** → ingestion lag monitors, drift metrics, vault compounding curves, persona simulation feedback loops  
 
-By fusing these feeds, **Vanta transforms **heterogeneous raw data** into **cohesive market intelligence streams**, ensuring redundancy, adversarial coverage, and low-latency alignment.   
+By fusing these feeds, **Vanta transforms heterogeneous raw data into cohesive market intelligence streams**, ensuring redundancy, adversarial coverage, and low-latency alignment.By fusing these feeds, **Vanta transforms **heterogeneous raw data** into **cohesive market intelligence streams**, ensuring redundancy, adversarial coverage, and low-latency alignment.   
 
 ---
 
