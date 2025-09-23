@@ -74,7 +74,8 @@ Unlike scrapers or retail scripts, Vanta fuses:
 - 📜 **Replayable audit DAGs** → attribution, compliance, forensic backtesting  
 - 🎭 **Persona/Dream Engine** → persona simulators, contrarian/chaos flips, reinforcement agents  
 
-Every decision is auditable, replayable, and attributable down to signal lineage, enabling institutional-grade confidence in fully autonomous execution.  
+Every decision is auditable, replayable, and attributable down to signal lineage, enabling institutional-grade confidence in fully autonomous execution.
+
 ---
 
 ## 🎯 Purpose  
