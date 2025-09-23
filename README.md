@@ -41,6 +41,48 @@
 
 ⚡ Closed-loop AI operating system for capital markets - real-time ingestion, belief-stacked ensembles, autonomous vault allocation, and replayable audit DAGs.
 
+## ⚡ Why VANTA OS Is Different
+
+VANTA OS is not another trading bot or signal feed.  
+It is a **capital intelligence operating system** engineered to make autonomous reasoning, vault allocation, and live execution **trustworthy at scale**.  
+
+What sets it apart:
+
+- **Closed-Loop Autonomy**  
+  Every cycle is end-to-end: ingest → enrich → reason → allocate → execute → audit → retrain.  
+  No external “human in the loop” required — but every decision is transparent and replayable.
+
+- **Vaults as First-Class Primitives**  
+  Signals don’t just rank. They **flow into vault allocators** that encode risk rails, persona overlays, and compounding logic.  
+  Vaults are deterministic state machines, not black-box accounts.
+
+- **Persona-Reinforced Intelligence**  
+  The OS embeds named personas (*Athena*, *Apollo*, *Nemesis*) that bias reasoning modes (risk-averse, aggressive, contrarian).  
+  These personas act as reinforcement layers, not cosmetic labels.
+
+- **Replayable Audit DAGs**  
+  Every signal, allocation, and trade is logged in an append-only DAG.  
+  Investigators can reconstruct the exact chain of reasoning and execution at any timestamp.
+
+- **Cross-Domain Ingestion**  
+  Market data, on-chain telemetry, insider filings, and sentiment streams are fused in real time.  
+  The OS runs on a **heterogeneous stream bus** with backpressure control and replay offsets.
+
+- **Shadow → Live Governance**  
+  Models and strategies run in parallel shadow/live pipelines.  
+  Nothing is promoted to live execution until attribution exceeds baselines.  
+  Drift alarms (<24h) guarantee resilience in adversarial markets.
+
+- **Aligned Incentives**  
+  Unlike retail feeds, the OS is not monetized by selling tickers.  
+  It is designed so performance fees, vault growth, and compounding curves align system incentives with capital outcomes.
+
+---
+
+In short:  
+VANTA OS is **the first governed, replayable, persona-reinforced capital OS**, not a bot or a signal seller.  
+It encodes **how capital should think, act, and govern itself** — in real time, across rails, without trust gaps.
+
 ---
 
 ## 📑 Table of Contents
