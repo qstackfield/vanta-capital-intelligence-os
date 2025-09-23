@@ -35,7 +35,7 @@
 **AI Systems Architect | Autonomous Markets Builder**  
 [LinkedIn](https://www.linkedin.com/in/qstackfield) · [GitHub](https://github.com/qstackfield)
 
-⚡ Closed-loop AI operating system for capital markets — real-time ingestion, belief-stacked ensembles, autonomous vault allocation, and replayable audit DAGs.  
+⚡ Closed-loop AI operating system for capital markets - real-time ingestion, belief-stacked ensembles, autonomous vault allocation, and replayable audit DAGs.  
 ---
 
 ## 📑 Table of Contents
