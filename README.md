@@ -44,21 +44,21 @@
 
 ---
 
-## 🔎 Overview
+## 🔎 Overview  
+
 Vanta is a **production-grade capital intelligence operating system**, not a trading bot.  
 It continuously ingests heterogeneous financial and sentiment signals, enriches them in real time, and produces **conviction-ranked intelligence vectors** with explainable rationales.  
 
-Unlike scrapers or retail scripts, Vanta fuses:
-- Low-latency collectors (scrapers, API pollers, SSE listeners, darknet monitors)  
-- Entity resolution graphs across insiders, tickers, wallets, and sentiment IDs  
-- Dual feature stores (offline parquet lake + online Redis)  
-- Multi-model ensembles stacked into conviction vectors  
-- Broker execution gateways for equities, options, crypto, and DEX connectors  
-- Vault allocators that transform conviction into capital allocations  
-- Replayable audit DAGs for compliance and attribution  
+Unlike scrapers or retail scripts, Vanta fuses:  
+- ⚡ **Low-latency collectors** → scrapers, API pollers, SSE listeners, darknet monitors  
+- 🧩 **Entity resolution graphs** → insiders ↔ tickers ↔ wallets ↔ sentiment IDs  
+- 🗂 **Dual feature stores** → offline parquet/S3 lake + online Redis cache  
+- 🧠 **Multi-model ensembles** → forecasters, anomaly detectors, classifiers, graph models  
+- 🔗 **Execution gateways** → equities, options, crypto (Alpaca, Tradier, CEX connectors)  
+- 📜 **Replayable audit DAGs** → attribution, compliance, forensic backtesting  
+- 🎭 **Persona/Dream Engine** → persona simulators, contrarian/chaos flips, reinforcement agents  
 
-Every decision is **auditable, replayable, and attributable down to signal lineage**.  
-
+Every decision is **auditable, replayable, and attributable down to signal lineage**, enabling institutional-grade confidence in fully autonomous execution.  
 ---
 
 ## 🎯 Purpose
