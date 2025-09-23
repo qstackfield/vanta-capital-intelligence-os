@@ -129,7 +129,7 @@ Collectors → Stream Bus → Pre-Enrichment → Entity Resolution → Feature S
    │ global belief stack                          │
    └───────────────────────────────┬──────────────┘
                                    │
-                   [ NFS / Kafka Stream Backbone ]
+   [ NFS / Kafka Stream Backbone ]
                                    │
    [ Markets Node ] Ingestion & Reflection
    ┌──────────────────────────────────────────────┐
