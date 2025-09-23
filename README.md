@@ -2,7 +2,7 @@
   <img src="https://i.postimg.cc/yD4Dx3QB/VANTA-OS-Banner.png" alt="VANTA OS Banner" width="100%" />
 </p>
 
-# VANTA OS - Autonomous Capital Intelligence Stack 📊🔐
+# VANTA OS - Autonomous Capital Intelligence Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue" />
