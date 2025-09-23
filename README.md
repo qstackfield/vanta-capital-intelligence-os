@@ -509,9 +509,6 @@ operating across **Alpha, Markets, and Executor nodes**.
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://github.com/qstackfield)  
 
 ---
-## 🔗 Related Repos
-
----
 
 ## 🔗 Related Repositories  
 
