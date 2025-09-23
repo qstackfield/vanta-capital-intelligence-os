@@ -86,7 +86,7 @@ Deliver **real-time conviction vectors** with explainable reasoning chains acros
 **Conviction Vector Schema:**  
 ```text
 | signal_id | conviction_score | reason_vector | contributing_models | TTL | routing_tags |
-'''
+```
 ---
 
 # 📌 PART 2 (Everything after Model Layer)
