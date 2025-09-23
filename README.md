@@ -89,9 +89,7 @@ Deliver **real-time conviction vectors** with explainable reasoning chains acros
 ```
 ---
 
-# 📌 PART 2 (Everything after Model Layer)
-
-```markdown
+```
 ## ⚙️ Model Ops
 - **Registry:** MLflow-backed with lineage, metrics, hyperparams  
 - **Retraining:** rolling-window retrains with shadow→live promotion  
