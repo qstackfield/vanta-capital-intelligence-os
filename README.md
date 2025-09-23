@@ -1,4 +1,4 @@
-# VANTA OS — Autonomous Capital Intelligence Stack 📊
+# Autonomous Capital Intelligence Stack 
 
 ---
 
