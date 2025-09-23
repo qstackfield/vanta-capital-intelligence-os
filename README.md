@@ -492,7 +492,7 @@ operating across **Alpha, Markets, and Executor nodes**.
 
 ## 👥 Contributors & Credits  
 
-- **Quinton Stackfield** — AI Systems Architect & Builder  
+- **Quinton Stackfield** - AI Systems Architect & Builder  
 - Built and maintained as part of the **VANTA OS** research + production stack  
 - Special thanks to the open-source ML/infra community (PyTorch, Kafka, Redis, Neo4j, MLflow)  
 
