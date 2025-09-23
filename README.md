@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/yD4Dx3QB/VANTA-OS-Banner.png" alt="VANTA OS Banner" width="100%" />
+  <img src="https://i.postimg.cc/QdV16pcB/IMG-4837.jpg" alt="VANTA OS Banner" width="100%" />
 </p>
 
 # VANTA OS - Autonomous Capital Intelligence Stack
