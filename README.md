@@ -161,7 +161,7 @@ Collectors → Stream Bus → Pre-Enrichment → Entity Resolution → Feature S
 - **Executor Node** → Trade execution + broker integrations.  
 - **Persona/Dream Layer** → Parallel reinforcement (risk-averse, contrarian, chaos sims) feeding conviction stack.  
 
-By design, Vanta ensures that every **collector, transformation, and decision is traceable** — making it not just a streaming system, but a **governed capital OS**.  
+By design, Vanta ensures that every **collector, transformation, and decision is traceable** — making it not just a streaming system, but a **governed capital OS**.    
 
 ---
 
