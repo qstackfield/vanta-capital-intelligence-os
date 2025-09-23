@@ -1,9 +1,7 @@
 <div align="center">
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 💰📈 **VANTA OS — Autonomous Capital Intelligence Stack** 📊🔐  
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![MLflow](https://img.shields.io/badge/ML-Ops-MLflow-green?logo=mlflow&logoColor=white)
 ![Secure](https://img.shields.io/badge/Secure-By%20Design-red?logo=datadog&logoColor=white)
