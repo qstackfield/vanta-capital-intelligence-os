@@ -644,6 +644,6 @@ Every contribution goes toward expanding vault intelligence, mirroring, executio
   Handles billing, referral incentives, entitlement enforcement, and broker API integrations so followers can copy vaults seamlessly.  
 
 - 📖 [Investor Landing Page](https://qstackfield.github.io/vanta-capital-intelligence-os/) for a high-level overview.  
-- 💬 All design, roadmap, and Q&A are open → [Join the VANTA Discussions](../../discussions).  
+- 💬 Design, Roadmap, and Q&A → [Join the VANTA Discussions](../../discussions).  
 
 ---
