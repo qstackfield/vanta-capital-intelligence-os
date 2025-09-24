@@ -601,19 +601,19 @@ operating across **Alpha, Markets, and Executor nodes**.
 
 ---
 
-## 💸 Funding & Support
+## 🌟 Funding & Support  
 
-VANTA OS is built as a closed-loop autonomous intelligence stack - community and strategic partners fuel its growth.  
-You can support development directly or become part of its future.
+VANTA OS is built as a closed-loop autonomous intelligence stack — community and strategic partners fuel its growth.  
+You can support development directly and be part of its future:  
 
-- 🎯 **Strategic Partner** – [Stripe Link](https://buy.stripe.com/eVqdR96ahdqIb69cSVbZe03)  
-- 🤝 **Partner** – [Stripe Link](https://buy.stripe.com/cNi9AT56d5Yg4HL8CFbZe04)  
-- 🚀 **Sponsor** – [Stripe Link](https://buy.stripe.com/7sY00jbuBaew3DHcSVbZe05)  
+[![Strategic Partner](https://img.shields.io/badge/Strategic%20Partner-%F0%9F%8E%AF-blue?style=for-the-badge)](https://buy.stripe.com/eVqdR96ahdqIb69cSVbZe03)  
+[![Partner](https://img.shields.io/badge/Partner-%F0%9F%A4%9D-green?style=for-the-badge)](https://buy.stripe.com/cNi9AT56d5Yg4HL8CFbZe04)  
+[![Sponsor](https://img.shields.io/badge/Sponsor-%F0%9F%9A%80-purple?style=for-the-badge)](https://buy.stripe.com/7sY00jbuBaew3DHcSVbZe05)  
 
-Or contribute directly via Bitcoin:  
-`bc1qagw2a6zz2qck8kqaaxtpe0tv28n0fu9xm3c2e0`
+Or contribute directly via **Bitcoin**:  
+`bc1qagw2a6zz2qck8kqaaxtpe0tv28n0fu9xm3c2e0`  
 
-Every contribution goes toward expanding vault intelligence, mirroring, execution nodes, and next-gen market autonomy.
+Every contribution goes toward expanding vault intelligence, mirroring, execution nodes, and next-gen market autonomy.  
 
 ---
 
