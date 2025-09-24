@@ -63,8 +63,6 @@ Collect → Enrich → Reason → Allocate → Execute → Audit → Retrain
 - 🌐 **Cross-domain ingestion** → SEC filings, Reddit swarms, whale wallets, dark pools.  
 - ⚖️ **Shadow→Live governance** → nothing promoted until attribution > baseline.  
 
----
-
 ### 🔑 Vault Mirroring Model  
 
 Unlike bots that pool capital or sell screenshots, VANTA lets followers **mirror vaults directly** in their own brokerage accounts:  
