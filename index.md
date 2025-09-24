@@ -9,7 +9,6 @@
 
 ---
 
-**New here?**  
 For a detailed technical view, visit the full [VANTA OS Repository](https://github.com/qstackfield/vanta-capital-intelligence-os).  
 ## Why VANTA OS?
 
