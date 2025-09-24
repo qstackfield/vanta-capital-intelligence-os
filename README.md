@@ -488,7 +488,6 @@ VANTA OS runs as one **autonomous capital brain** - live, explainable, and infin
 
 ---
 
-
 ## 📂 README ↔ Server Mapping
 Each section maps directly to deployed modules in `/opt/vanta/`.  
 This is **not conceptual** - it’s live across Alpha / Markets / Executor nodes.  
