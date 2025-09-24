@@ -434,11 +434,11 @@ VANTA OS is not another “signal bot.” It’s an **autonomous capital intelli
 
 ### 🚫 Human Resource Savings
 Traditional funds require:
-- **10+ Quants** — for signal research, alpha testing, factor modeling.
-- **5+ Data Engineers** — to build ingestion pipelines, wrangle APIs, maintain scrapers.
-- **3–4 Infra/SREs** — to manage clusters, databases, feature stores, job schedulers.
-- **2 Execution Engineers** — to manage order routing, broker integrations, slippage control.
-- **2 Ops/Compliance Officers** — to reconcile trades, generate daily reports, audit logs.
+- **10+ Quants** - for signal research, alpha testing, factor modeling.
+- **5+ Data Engineers** - to build ingestion pipelines, wrangle APIs, maintain scrapers.
+- **3–4 Infra/SREs** - to manage clusters, databases, feature stores, job schedulers.
+- **2 Execution Engineers** - to manage order routing, broker integrations, slippage control.
+- **2 Ops/Compliance Officers** - to reconcile trades, generate daily reports, audit logs.
 
 VANTA collapses all of this into a **deterministic, replayable OS**:
 - **Signals harvested automatically** from social, filings, sentiment, options flow.
@@ -479,6 +479,8 @@ Legacy shops spend millions annually on vendor feeds & tooling:
 
 > 🧠 **Summary:** Instead of 20 people + 5 vendors + $5M/year in overhead,  
 VANTA OS runs as one **autonomous capital brain** — live, explainable, and infinitely scalable.
+
+---
 
 ## 📂 README ↔ Server Mapping
 Each section maps directly to deployed modules in `/opt/vanta/`.  
