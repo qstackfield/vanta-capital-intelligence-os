@@ -52,6 +52,8 @@ Go to the [VANTA Platform Repository](https://github.com/qstackfield/vanta-platf
 **AI Systems Architect | Autonomous Markets Builder**  
 [LinkedIn](https://www.linkedin.com/in/qstackfield) · [GitHub](https://github.com/qstackfield)
 
+---
+
 ## Why VANTA OS Is Different
 
 VANTA OS is not another trading bot or signal feed.  
