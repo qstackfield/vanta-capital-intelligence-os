@@ -4,22 +4,21 @@
 
 ---
 
-> 🧠 Want the **deep technical breakdown**?  
+> ❓ Want the **deep technical breakdown**?  
 > 👉 [Explore the VANTA OS Repository](https://github.com/qstackfield/vanta-capital-intelligence-os)  
 
 > 📡 Curious about **subscriptions & vault mirroring**?  
 > 👉 [Check out the VANTA Platform Repository](https://github.com/qstackfield/vanta-platform)  
 
 > 💬 Have questions or ideas?  
-> 👉 [Join the VANTA Discussions](https://github.com/qstackfield/vanta-capital-intelligence-os/discussions)
+> 👉 [Join the VANTA Discussions](https://github.com/qstackfield/vanta-capital-intelligence-os/discussions)  
 
 ---
 
 <p align="center">
-  <strong>VANTA OS – Autonomous Capital Intelligence</strong><br>
+  <strong><span style="font-size: 1.5em;">VANTA OS – Autonomous Capital Intelligence</span></strong><br>
   <em>The first governed, replayable, persona-reinforced operating system for capital.</em>
 </p>
-
 ---
 
 ## 🚀 Why VANTA OS?
