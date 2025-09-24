@@ -2,8 +2,6 @@
   <img src="https://i.postimg.cc/QdV16pcB/IMG-4837.jpg" alt="VANTA OS Banner" width="90%" />
 </p>
 
-**The Autonomous Capital Intelligence Stack**> 
-
 🚀 **New here?**  
 > For a high-level overview of VANTA OS, visit the [Investor Landing Page](https://qstackfield.github.io/vanta-capital-intelligence-os).
 ---
