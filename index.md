@@ -65,24 +65,26 @@ Collect → Enrich → Reason → Allocate → Execute → Audit → Retrain
 
 ---
 
-> 💡 **Vault Mirroring Model**  
-> Unlike bots that pool capital or sell screenshots, VANTA lets followers **mirror vaults directly in their own brokerage accounts**.  
-> - Followers keep funds in their account (no custody risk).  
-> - VANTA executes mirrored allocations deterministically.  
-> - Fees are **performance-aligned** (percentage of realized PnL, not flat signals).  
->
-> **Result:** aligned incentives, zero trust gaps, scalable to 1,000+ mirrored accounts.
----
-## 🚫 Why It’s Not a Bot
+### 🔑 Vault Mirroring Model  
 
+Unlike bots that pool capital or sell screenshots, VANTA lets followers **mirror vaults directly** in their own brokerage accounts:  
+
+- Followers keep funds in their account (**no custody risk**).  
+- VANTA executes mirrored allocations deterministically.  
+- Fees are **performance-aligned** (percentage of realized PnL, not flat signals).  
+
+**Result:** aligned incentives, zero trust gaps, scalable to **1,000+ mirrored accounts**.  
+
+---
+
+## 🚫 Why It’s Not a Bot
 - Bots = opaque, heuristic, unscalable.  
-- **VANTA = governed, auditable, persona-reinforced.**
+- **VANTA = governed, auditable, persona-reinforced.**  
 
 Competitors sell **signals**.  
 **VANTA delivers the operating system.**
 
-> 🧠 **Investor Takeaway:** one governed OS can replace entire desks + vendors.
-
+💡 **Investor Takeaway:** one governed OS can replace entire desks + vendors.
 ---
 
 ## 🌟 Funding & Support  
