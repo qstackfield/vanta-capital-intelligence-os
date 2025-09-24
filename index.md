@@ -17,7 +17,7 @@
 
 <p align="center">
 
-## **VANTA OS – Autonomous Capital Intelligence**  
+## **VANTA OS - Autonomous Capital Intelligence**  
 *The first governed, replayable, persona-reinforced operating system for capital.*  
 
 </p>
