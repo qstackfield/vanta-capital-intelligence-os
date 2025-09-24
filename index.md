@@ -3,129 +3,103 @@
 </p>
 
 <p align="center">
-  <strong>VANTA OS - An Autonomous Capital Intelligence Stack</strong><br>
-  <em>The future of capital is governed, replayable, and autonomous.</em>
+  <strong>VANTA OS – Autonomous Capital Intelligence</strong><br>
+  <em>The first governed, replayable, persona-reinforced operating system for capital.</em>
 </p>
 
 ---
 
-For a detailed technical view, visit the full [VANTA OS Repository](https://github.com/qstackfield/vanta-capital-intelligence-os).  
+For a deep technical breakdown, see the full  
+👉 [VANTA OS Repository](https://github.com/qstackfield/vanta-capital-intelligence-os)
 
 ---
-## Why VANTA OS?
 
-VANTA OS is **not another trading bot**.  
-It is the **first governed, replayable, persona-reinforced capital operating system** – designed to replace entire quant desks, vendor feeds, and ops pipelines with a **closed-loop autonomous brain**.
+## 🚀 Why VANTA OS?
 
-- ⚡ **20+ FTEs eliminated** – no analysts, no scrapers, no ops tickets.  
+> ⚡ **Replaces 20+ engineers** | 💰 **Cuts $3–5M vendor spend per desk** | 🔒 **100% auditable**
+
+VANTA OS is **not a bot.**  
+It is a **closed-loop capital operating system** designed to govern, reason, allocate, and execute **without human babysitting**.
+
+- ⚡ **20+ FTEs eliminated** – analysts, scrapers, ops, compliance.  
 - 💰 **$3–5M vendor savings per desk** – Bloomberg, FactSet, Databricks replaced.  
-- 🔒 **Governed autonomy** – replayable audit DAGs, persona overlays, and drift alarms.  
-- 🧠 **Capital that thinks** – every signal is enriched, reasoned, scored, allocated, executed, and audited in one loop.  
+- 🔒 **Governed autonomy** – replayable DAGs, persona overlays, <24h drift alarms.  
+- 🧠 **Capital that thinks** – every signal enriched → reasoned → scored → executed → audited.  
 
-> **Instead of buying signals, you own the operating system.**  
+> **Instead of buying signals, you own the OS.**
+
+---
+
+## 💡 The Value Proposition
+
+Traditional hedge funds burn millions annually on:  
+- Quants, data engineers, and ops teams.  
+- Vendor licenses for terminals, feeds, and backtesting.  
+- Infra to monitor, reconcile, and audit trades.  
+
+**VANTA collapses all of it into one autonomous stack.**
+
+- ✅ **Autonomous:** no human babysitting  
+- ✅ **Transparent:** every decision is replayable  
+- ✅ **Cross-rail:** fiat, crypto, stablecoins on one canvas  
+- ✅ **Scalable:** 1 vault → 1,000 mirrored accounts  
+
+> 🎯 **Takeaway:** faster, cheaper, replayable alpha.
 
 ---
 
-## The Value Proposition
-
-Traditional hedge funds burn millions per year on:  
-- Quants, engineers, and compliance teams.  
-- Vendor licenses for data feeds and backtesting.  
-- Infrastructure to monitor, reconcile, and audit trades.  
-
-**VANTA collapses all of it into one replayable OS.**  
-
-- **Autonomous:** No human babysitting.  
-- **Transparent:** Replay every decision.  
-- **Cross-Rail:** Treats fiat, crypto, and stablecoins as one continuous canvas.  
-- **Scalable:** 1 vault → 1,000 mirrored accounts.  
-
-> The result: **speed, cost savings, and explainable alpha** – in real time.  
-
----
 ## 🌐 System Overview
 
-VANTA OS is a **production-grade capital intelligence operating system**.  
-It continuously ingests heterogeneous financial, regulatory, social, and on-chain signals – fuses them into conviction-ranked vectors – and executes trades through governed vaults.
+VANTA ingests **financial, regulatory, social, and on-chain signals**, fuses them into conviction-ranked vectors, and routes them through **governed vaults**.
 
-Pipeline Flow:  
-**Collect → Enrich → Reason → Allocate → Execute → Audit → Retrain**
+**Pipeline:**  
+Collect → Enrich → Reason → Allocate → Execute → Audit → Retrain  
 
-### Core Differentiators
+### 🔑 Differentiators
 
-- 🧩 **Vaults as First-Class Primitives**  
-  Unlike funds or bots that push trades, VANTA encodes every decision in deterministic vault JSONs.  
-  Vaults enforce risk rails, persona overlays, and compounding logic.  
-  They are transparent, auditable state machines.
-
-- 🎭 **Persona-Reinforced Intelligence**  
-  Named personas (*Athena, Apollo, Nemesis*) bias reasoning modes (risk-averse, contrarian, aggressive).  
-  Personas act as reinforcement layers, shaping allocations and ensuring diversity of thought.
-
-- 📜 **Replayable Audit DAGs**  
-  Every signal, allocation, and trade is logged in append-only directed acyclic graphs (DAGs).  
-  Regulators, auditors, or partners can replay the **exact decision chain** at any timestamp.
-
-- 🌐 **Cross-Domain Ingestion**  
-  SEC filings, Reddit swarms, Twitter cascades, whale wallets, dark pool prints – all fused into one conviction vector.  
-  Each domain runs in parallel partitions on a stream bus with replay offsets.
-
-- ⚖️ **Shadow → Live Governance**  
-  New models run in shadow mode against live baselines.  
-  Only when attribution exceeds thresholds are they promoted to execution.  
-  Drift alarms (<24h) guarantee resilience against regime shifts.
+- 🧩 **Vaults as primitives** → deterministic JSON state machines with risk rails + compounding.  
+- 🎭 **Personas (Athena, Apollo, Nemesis)** → reinforcement layers bias reasoning + allocations.  
+- 📜 **Replayable DAGs** → every trade fully reconstructible for audit/regulation.  
+- 🌐 **Cross-domain ingestion** → SEC filings, Reddit swarms, whale wallets, dark pools.  
+- ⚖️ **Shadow→Live governance** → nothing promoted until attribution > baseline.  
 
 ---
 
 ## 🚫 Why It’s Not a Bot
 
 - Bots = opaque, heuristic, unscalable.  
-- VANTA OS = governed, auditable, and persona-reinforced.  
+- **VANTA = governed, auditable, persona-reinforced.**
 
-Competitors sell signals.  
-**VANTA sells the operating system.**
+Competitors sell **signals**.  
+**VANTA delivers the operating system.**
 
-This distinction means VANTA can:  
-- Replace **expensive vendor feeds**.  
-- Replace **entire teams of engineers**.  
-- Scale to **1000s of mirrored accounts** instantly.  
-
-> **Nobody else is doing this.**  
-> VANTA is not a tool – it is a new financial operating system.  
+> 🧠 **Investor Takeaway:** one governed OS can replace entire desks + vendors.
 
 ---
+
 ## 🌟 Funding & Support  
 
-VANTA OS is built as a **closed-loop autonomous intelligence stack** — community, partners, and strategic investors fuel its growth.  
-
-You can support development directly and become part of the next frontier of capital intelligence:  
+Help scale the future of capital intelligence:  
 
 [![Strategic Partner](https://img.shields.io/badge/Strategic%20Partner-%F0%9F%8E%AF-blue?style=for-the-badge)](https://buy.stripe.com/eVqdR96ahdqIb69cSVbZe03)  
 [![Partner](https://img.shields.io/badge/Partner-%F0%9F%A4%9D-green?style=for-the-badge)](https://buy.stripe.com/cNi9AT56d5Yg4HL8CFbZe04)  
 [![Sponsor](https://img.shields.io/badge/Sponsor-%F0%9F%9A%80-purple?style=for-the-badge)](https://buy.stripe.com/7sY00jbuBaew3DHcSVbZe05)  
 
-Or contribute directly via **Bitcoin**:  
+Or via **Bitcoin:**  
 `bc1qagw2a6zz2qck8kqaaxtpe0tv28n0fu9xm3c2e0`  
 
 Every contribution accelerates:  
-- 🚀 Expansion of vault intelligence  
-- 🔄 Scaling of mirroring & execution nodes  
-- 🧠 Next-gen persona reinforcement  
+- 🚀 Vault intelligence expansion  
+- 🔄 Mirroring & execution scaling  
+- 🧠 Persona reinforcement R&D  
 - 📊 Transparency + replayable governance  
 
 ---
 
 ## 🔗 Explore the Ecosystem
 
-Want to dive deeper into the technical backbone and see the full architecture?  
-Check out the repositories below:
-
-- **[VANTA OS – Autonomous Capital Intelligence Stack](https://github.com/qstackfield/vanta-capital-intelligence-os)**  
-  The governed, replayable, persona-driven OS that powers everything.  
-  Technical deep dive: architecture, KPIs, vault logic, server mapping.
-
-- **[VANTA Platform – Subscriptions & Vault Mirroring](https://github.com/qstackfield/vanta-platform)**  
-  The user-facing layer: subscriptions, funding tiers, broker integrations, and mirroring system.
+- **[VANTA OS](https://github.com/qstackfield/vanta-capital-intelligence-os)** → technical deep dive  
+- **[VANTA Platform](https://github.com/qstackfield/vanta-platform)** → subscriptions, mirroring, funding tiers  
 
 ---
 
@@ -141,12 +115,10 @@ AI Systems Architect | Autonomous Markets Builder
 
 ## ⚡ Call to Action  
 
-**VANTA OS is not a bot.**  
-It is the first **governed, persona-reinforced, replayable capital intelligence OS.**  
+**VANTA OS replaces 20 engineers + $5M in spend with one auditable OS.**  
+It’s **faster, cheaper, governed, persona-reinforced, and replayable.**  
 
-It replaces **20+ engineers**, **$5M+ vendor licenses**, and delivers **autonomous vaults** that scale instantly to thousands of mirrored accounts.  
-
-This is **how capital will think, act, and govern itself** in the future.  
+This is **how capital will think, act, and govern itself**.  
 And that future is here.  
 
-> 🔥 Be part of it now — as a partner, sponsor, or strategic investor.  
+> 🔥 Be part of it — as a partner, sponsor, or strategic investor.
