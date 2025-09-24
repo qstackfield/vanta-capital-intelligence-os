@@ -96,7 +96,7 @@ It encodes **how capital should think, act, and govern itself** - in real time, 
 - [🔒 Security & Governance](#security--governance)
 - [💰 Vaults & Capital Allocation](#vaults--capital-allocation)
 - [💥 Cost & Resource Disruption](#cost--resource-disruption)
-- [📜 README ⇔ Server Mapping](#readme--server-mapping)
+- [📜 README ⇔ Server Mapping](#-readme--server-mapping)
 - [🗺️ Roadmap](#roadmap)
 - [📝 Final Notes](#final-notes)
 - [🔐 Internal Repositories (Private)](#internal-repositories-private)
