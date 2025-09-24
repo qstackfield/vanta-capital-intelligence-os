@@ -72,7 +72,7 @@ Collect → Enrich → Reason → Allocate → Execute → Audit → Retrain
 > - Fees are **performance-aligned** (percentage of realized PnL, not flat signals).  
 >
 > **Result:** aligned incentives, zero trust gaps, scalable to 1,000+ mirrored accounts.
-
+---
 ## 🚫 Why It’s Not a Bot
 
 - Bots = opaque, heuristic, unscalable.  
