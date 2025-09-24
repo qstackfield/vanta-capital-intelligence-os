@@ -121,4 +121,4 @@ It’s **faster, cheaper, governed, persona-reinforced, and replayable.**
 This is **how capital will think, act, and govern itself**.  
 And that future is here.  
 
-> 🔥 Be part of it — as a partner, sponsor, or strategic investor.
+> 🔥 Be part of it - as a partner, sponsor, or strategic investor.
