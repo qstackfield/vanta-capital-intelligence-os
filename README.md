@@ -84,19 +84,20 @@ It encodes **how capital should think, act, and govern itself** - in real time, 
 ---
 
 ## 📑 Table of Contents
-- [Overview](#-overview)
-- [Purpose](#-purpose)
-- [Data Domains & Feeds](#-data-domains--feeds)
-- [System Architecture](#-system-architecture)
-- [Model Layer](#-model-layer)
-- [Model Ops](#-model-ops)
-- [KPIs](#-kpis)
-- [Security & Governance](#-security--governance)
-- [Vaults & Capital Allocation](#-vaults--capital-allocation)
-- [README ↔ Server Mapping](#-readme--server-mapping)
-- [Roadmap](#-roadmap)
-- [Final Notes](#-final-notes)
-- [Internal Repositories (Private)](#-internal-repositories-private)
+- [Overview](#overview)  
+- [Purpose](#purpose)  
+- [Data Domains & Feeds](#data-domains--feeds)  
+- [System Architecture](#system-architecture)  
+- [Model Layer](#model-layer)  
+- [Model Ops](#model-ops)  
+- [KPIs](#kpis)  
+- [Security & Governance](#security--governance)  
+- [Vaults & Capital Allocation](#vaults--capital-allocation)  
+- [Cost & Resource Disruption](#cost--resource-disruption)  
+- [README ↔ Server Mapping](#readme--server-mapping)  
+- [Roadmap](#roadmap)  
+- [Final Notes](#final-notes)  
+- [Internal Repositories (Private)](#internal-repositories-private)  
 
 ---
 
