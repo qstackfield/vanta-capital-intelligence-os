@@ -64,6 +64,7 @@ Collect → Enrich → Reason → Allocate → Execute → Audit → Retrain
 - ⚖️ **Shadow→Live governance** → nothing promoted until attribution > baseline.  
 
 ---
+
 > 💡 **Vault Mirroring Model**  
 > Unlike bots that pool capital or sell screenshots, VANTA lets followers **mirror vaults directly in their own brokerage accounts**.  
 > - Followers keep funds in their account (no custody risk).  
