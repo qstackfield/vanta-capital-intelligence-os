@@ -76,6 +76,7 @@ Unlike bots that pool capital or sell screenshots, VANTA lets followers **mirror
 ---
 
 ## 🚫 Why It’s Not a Bot
+
 - Bots = opaque, heuristic, unscalable.  
 - **VANTA = governed, auditable, persona-reinforced.**  
 
