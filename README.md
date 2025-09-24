@@ -104,6 +104,7 @@ It encodes **how capital should think, act, and govern itself** - in real time, 
 - [👥 Contributors & Credits](#contributors--credits)
 - [🌟 Funding & Support](#funding--support)
 - [🔗 Related Repositories](#related-repositories)
+
 ---
 
 ## 🔎 Overview  
