@@ -10,9 +10,8 @@
 ---
 
 For a detailed technical view, visit the full [VANTA OS Repository](https://github.com/qstackfield/vanta-capital-intelligence-os).  
-## Why VANTA OS?
-
 ---
+## Why VANTA OS?
 
 VANTA OS is **not another trading bot**.  
 It is the **first governed, replayable, persona-reinforced capital operating system** – designed to replace entire quant desks, vendor feeds, and ops pipelines with a **closed-loop autonomous brain**.
