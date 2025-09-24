@@ -1,13 +1,4 @@
-# .github/FUNDING.yml
-# Configure sponsor & funding links for VANTA OS
-
 github: qstackfield
 
 custom:
-  # Primary Stripe link (used by GitHub's top "Fund this project" button)
   - "https://buy.stripe.com/eVqdR96ahdqIb69cSVbZe03"
-
-# Notes:
-# - GitHub UI only supports ONE custom link for the top "Fund" button.
-# - All other funding options (Partner, Sponsor, Bitcoin) should stay in README.md.
-# - This way the top button goes to Strategic Partner, and README shows all tiers
