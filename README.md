@@ -4,9 +4,11 @@
 
 [![Fund VANTA](https://img.shields.io/badge/Fund%20VANTA-Support-blue?style=for-the-badge&logo=stripe)](https://buy.stripe.com/eVqdR96ahdqIb69cSVbZe03)
 
-👋 **New to VANTA?**  
-Start with the [Investor Landing Page](https://qstackfield.github.io/vanta-capital-intelligence-os/) for a high-level overview.  
-Interested in **subscriptions & vault mirroring**? Head to the [VANTA Platform Repository](https://github.com/qstackfield/vanta-platform).  
+## 👋 New to VANTA?
+
+- 📖 Start with the [Investor Landing Page](https://qstackfield.github.io/vanta-capital-intelligence-os/) for a high-level overview.  
+- 💻 Looking for subscriptions & vault mirroring? Go to the [VANTA Platform Repository](https://github.com/qstackfield/vanta-platform).  
+- 💬 All design, roadmap, and Q&A are open → [Join the VANTA Discussions](../../discussions).  
 
 All design, roadmap, and Q&A for **VANTA OS + Platform** are transparent and public. 👉 [Join the VANTA Discussions](../../discussions)  
 
