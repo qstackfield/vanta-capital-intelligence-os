@@ -5,6 +5,8 @@
 # 🚀 VANTA OS  
 **The Autonomous Capital Intelligence Stack**
 
+> 🚀 **New here?**  
+> For a high-level overview of VANTA OS, visit the [Investor Landing Page](https://qstackfield.github.io/vanta-capital-intelligence-os).
 ---
 
 ## Why VANTA OS?
