@@ -4,6 +4,14 @@
 
 [![Fund VANTA](https://img.shields.io/badge/Fund%20VANTA-Support-blue?style=for-the-badge&logo=stripe)](https://buy.stripe.com/eVqdR96ahdqIb69cSVbZe03)
 
+---
+
+**👋 New here?**  
+For a high-level introduction to VANTA OS, visit the [Landing Page](https://qstackfield.github.io/vanta-capital-intelligence-os).  
+If you want the deep technical architecture, continue below.  
+
+---
+
 # VANTA OS - Autonomous Capital Intelligence Stack
 
 <p align="center">
