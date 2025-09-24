@@ -100,7 +100,7 @@ It encodes **how capital should think, act, and govern itself** - in real time, 
 - [🛣️ Roadmap](#️-roadmap)
 - [📝 Final Notes](#-final-notes)
 - [🔐 Internal Repositories (Private)](#-internal-repositories-private)
-- [📡 System Status — VANTA OS](#-system-status--vanta-os)
+- [📡 System Status - VANTA OS](#-system-status--vanta-os)
 - [👥 Contributors & Credits](#-contributors--credits)
 - [🌟 Funding & Support](#-funding--support)
 - [🔗 Related Repositories](#-related-repositories)
