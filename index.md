@@ -140,3 +140,18 @@ This is **how capital will think, act, and govern itself**.
 And that future is here.  
 
 > 🔥 Be part of it - as a partner, sponsor, or strategic investor.
+
+---
+
+## 🔗 Explore More
+
+- 🧠 **[VANTA OS — Autonomous Capital Intelligence Stack](https://github.com/qstackfield/vanta-capital-intelligence-os)**  
+  Ingestion pipelines, reasoning engines, replayable DAGs, personas, and full technical architecture.  
+
+- 📡 **[VANTA Platform — Subscriptions & Vault Mirroring](https://github.com/qstackfield/vanta-platform)**  
+  User-facing control plane for vault mirroring, subscriptions, and governed execution.  
+
+- 💬 **[VANTA Discussions](https://github.com/qstackfield/vanta-capital-intelligence-os/discussions)**  
+  Open Q&A, roadmap ideas, and community collaboration — everything transparent and public.  
+
+---
