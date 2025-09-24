@@ -82,7 +82,8 @@ Unlike bots that pool capital or sell screenshots, VANTA lets followers **mirror
 Competitors sell **signals**.  
 **VANTA delivers the operating system.**
 
-💡 **Investor Takeaway:** one governed OS can replace entire desks + vendors.
+💡**Investor Takeaway:** one governed OS can replace entire desks + vendors.
+
 ---
 
 ## 🌟 Funding & Support  
