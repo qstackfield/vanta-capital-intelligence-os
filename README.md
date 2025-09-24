@@ -478,9 +478,10 @@ Legacy shops spend millions annually on vendor feeds & tooling:
 ---
 
 > 🧠 **Summary:** Instead of 20 people + 5 vendors + $5M/year in overhead,  
-VANTA OS runs as one **autonomous capital brain** — live, explainable, and infinitely scalable.
+VANTA OS runs as one **autonomous capital brain** - live, explainable, and infinitely scalable.
 
 ---
+
 
 ## 📂 README ↔ Server Mapping
 Each section maps directly to deployed modules in `/opt/vanta/`.  
