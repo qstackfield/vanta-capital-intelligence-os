@@ -21,10 +21,10 @@ For a deep technical breakdown, see the full
 VANTA OS is **not a bot.**  
 It is a **closed-loop capital operating system** designed to govern, reason, allocate, and execute **without human babysitting**.
 
-- ⚡ **20+ FTEs eliminated** – analysts, scrapers, ops, compliance.  
-- 💰 **$3–5M vendor savings per desk** – Bloomberg, FactSet, Databricks replaced.  
-- 🔒 **Governed autonomy** – replayable DAGs, persona overlays, <24h drift alarms.  
-- 🧠 **Capital that thinks** – every signal enriched → reasoned → scored → executed → audited.  
+- ⚡ **20+ FTEs eliminated** -analysts, scrapers, ops, compliance.  
+- 💰 **$3–5M vendor savings per desk** - Bloomberg, FactSet, Databricks replaced.  
+- 🔒 **Governed autonomy** - replayable DAGs, persona overlays, <24h drift alarms.  
+- 🧠 **Capital that thinks** - every signal enriched → reasoned → scored → executed → audited.  
 
 > **Instead of buying signals, you own the OS.**
 
