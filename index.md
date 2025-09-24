@@ -114,13 +114,6 @@ Every contribution accelerates:
 
 ---
 
-## 🔗 Explore the Ecosystem
-
-- **[VANTA OS](https://github.com/qstackfield/vanta-capital-intelligence-os)** → technical deep dive  
-- **[VANTA Platform](https://github.com/qstackfield/vanta-platform)** → subscriptions, mirroring, funding tiers  
-
----
-
 ## 📫 Contact & Collaboration  
 
 **Quinton Stackfield**  
@@ -143,7 +136,7 @@ And that future is here.
 
 ---
 
-## 🔗 Explore More
+## 🔗 Explore the Ecosystem
 
 🧠 **[VANTA OS - Autonomous Capital Intelligence Stack](https://github.com/qstackfield/vanta-capital-intelligence-os)**  
   Ingestion pipelines, reasoning engines, replayable DAGs, personas, and full technical architecture.  
