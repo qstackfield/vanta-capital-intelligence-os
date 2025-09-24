@@ -10,11 +10,6 @@
 > • Start with the [Investor Landing Page](https://qstackfield.github.io/vanta-capital-intelligence-os/) for a high-level overview.  
 > • Interested in **subscriptions & vault mirroring**? Head to the [VANTA Platform Repository](https://github.com/qstackfield/vanta-platform).  
 
-🔗 **Looking for the Platform (subscriptions + vault mirroring)?**  
-Go to the [VANTA Platform Repository](https://github.com/qstackfield/vanta-platform).
-
----
-
 # VANTA OS - Autonomous Capital Intelligence Stack
 
 <p align="center">
