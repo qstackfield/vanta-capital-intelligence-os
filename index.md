@@ -9,9 +9,14 @@
 
 ---
 
-For a deep technical breakdown, see the full  
-👉 [VANTA OS Repository](https://github.com/qstackfield/vanta-capital-intelligence-os)
+> 🧠 Want the **deep technical breakdown**?  
+> 👉 [Explore the VANTA OS Repository](https://github.com/qstackfield/vanta-capital-intelligence-os)  
 
+> 📡 Curious about **subscriptions & vault mirroring**?  
+> 👉 [Check out the VANTA Platform Repository](https://github.com/qstackfield/vanta-platform)  
+
+> 💬 Have questions or ideas?  
+> 👉 [Join the VANTA Discussions](https://github.com/qstackfield/vanta-capital-intelligence-os/discussions)
 ---
 
 ## 🚀 Why VANTA OS?
