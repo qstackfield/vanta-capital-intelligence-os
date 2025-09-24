@@ -2,6 +2,8 @@
   <img src="https://i.postimg.cc/QdV16pcB/IMG-4837.jpg" alt="VANTA OS Banner" width="100%" />
 </p>
 
+[![Fund VANTA](https://img.shields.io/badge/Fund-VANTA%20OS-blueviolet?style=for-the-badge&logo=bitcoin&logoColor=white)](#-funding--partnerships)
+
 # VANTA OS - Autonomous Capital Intelligence Stack
 
 <p align="center">
