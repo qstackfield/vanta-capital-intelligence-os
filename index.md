@@ -2,6 +2,8 @@
   <img src="https://i.postimg.cc/QdV16pcB/IMG-4837.jpg" alt="VANTA OS Banner" width="90%" />
 </p>
 
+---
+
 > 🧠 Want the **deep technical breakdown**?  
 > 👉 [Explore the VANTA OS Repository](https://github.com/qstackfield/vanta-capital-intelligence-os)  
 
@@ -15,8 +17,6 @@
   <strong>VANTA OS – Autonomous Capital Intelligence</strong><br>
   <em>The first governed, replayable, persona-reinforced operating system for capital.</em>
 </p>
-
----
 ---
 
 ## 🚀 Why VANTA OS?
