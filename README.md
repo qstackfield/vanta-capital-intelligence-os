@@ -6,9 +6,9 @@
 
 ---
 
-👋 **New here?**  
-For a high-level introduction to VANTA OS, visit the [Investor Landing Page](https://qstackfield.github.io/vanta-capital-intelligence-os/).  
-If you want the deep technical architecture, continue below.  
+> 👋 **New to VANTA?**  
+> • Start with the [Investor Landing Page](https://qstackfield.github.io/vanta-capital-intelligence-os/) for a high-level overview.  
+> • Interested in **subscriptions & vault mirroring**? Head to the [VANTA Platform Repository](https://github.com/qstackfield/vanta-platform).  
 
 🔗 **Looking for the Platform (subscriptions + vault mirroring)?**  
 Go to the [VANTA Platform Repository](https://github.com/qstackfield/vanta-platform).
