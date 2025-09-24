@@ -110,6 +110,20 @@ Every contribution accelerates:
 
 ---
 
+## 🔗 Explore the Ecosystem
+
+Want to dive deeper into the technical backbone and see the full architecture?  
+Check out the repositories below:
+
+- **[VANTA OS – Autonomous Capital Intelligence Stack](https://github.com/qstackfield/vanta-capital-intelligence-os)**  
+  The governed, replayable, persona-driven OS that powers everything.  
+  Technical deep dive: architecture, KPIs, vault logic, server mapping.
+
+- **[VANTA Platform – Subscriptions & Vault Mirroring](https://github.com/qstackfield/vanta-platform)**  
+  The user-facing layer: subscriptions, funding tiers, broker integrations, and mirroring system.
+
+---
+
 ## 📫 Contact & Collaboration  
 
 **Quinton Stackfield**  
