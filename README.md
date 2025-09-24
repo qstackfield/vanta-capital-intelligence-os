@@ -10,9 +10,6 @@
 - 💻 Looking for subscriptions & vault mirroring? Go to the [VANTA Platform Repository](https://github.com/qstackfield/vanta-platform).  
 - 💬 All design, roadmap, and Q&A are open → [Join the VANTA Discussions](../../discussions).  
 
-All design, roadmap, and Q&A for **VANTA OS + Platform** are transparent and public. 👉 [Join the VANTA Discussions](../../discussions)  
-
-
 ---
 
 # VANTA OS - Autonomous Capital Intelligence Stack
