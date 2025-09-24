@@ -603,7 +603,7 @@ operating across **Alpha, Markets, and Executor nodes**.
 
 ## 💸 Funding & Support
 
-VANTA OS is built as a closed-loop autonomous intelligence stack — community and strategic partners fuel its growth.  
+VANTA OS is built as a closed-loop autonomous intelligence stack - community and strategic partners fuel its growth.  
 You can support development directly or become part of its future.
 
 - 🎯 **Strategic Partner** – [Stripe Link](https://buy.stripe.com/eVqdR96ahdqIb69cSVbZe03)  
