@@ -2,6 +2,15 @@
   <img src="https://i.postimg.cc/QdV16pcB/IMG-4837.jpg" alt="VANTA OS Banner" width="90%" />
 </p>
 
+<p align="center">
+  <strong>VANTA OS – An Autonomous Capital Intelligence Stack</strong><br>
+  <em>The future of capital is governed, replayable, and autonomous.</em>
+</p>
+
+---
+
+**New here?**  
+For a detailed technical view, visit the full [VANTA OS Repository](https://github.com/qstackfield/vanta-capital-intelligence-os).  
 ## Why VANTA OS?
 
 VANTA OS is **not another trading bot**.  
