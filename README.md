@@ -641,9 +641,6 @@ Every contribution goes toward expanding vault intelligence, mirroring, executio
 ---
 
 ## 🔗 Related Repositories  
-
----
-
 <p align="center">
   <sub>
     🧠 <a href="https://github.com/qstackfield/vanta-capital-intelligence-os"><b>VANTA OS</b></a> ·
