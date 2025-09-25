@@ -655,3 +655,14 @@ Every contribution goes toward expanding vault intelligence, mirroring, executio
     💬 <a href="https://github.com/qstackfield/vanta-capital-intelligence-os/discussions"><b>Discussions</b></a>
   </sub>
 </p>
+
+## 📬 Access
+
+The public repo shows the surface.  
+The **extended build journal** exists — raw, unfiltered, and heavier than what you see here.  
+
+If you want in:  
+- Open a GitHub issue and tag it **Access Request**  
+- State why you want access and how you plan to use it  
+
+Not everyone gets through. Requests are reviewed manually.  
