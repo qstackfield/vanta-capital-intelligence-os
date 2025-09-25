@@ -656,10 +656,12 @@ Every contribution goes toward expanding vault intelligence, mirroring, executio
   </sub>
 </p>
 
+---
+
 ## 📬 Access
 
 The public repo shows the surface.  
-The **extended build journal** exists — raw, unfiltered, and heavier than what you see here.  
+The **extended build journal** exists - raw, unfiltered, and heavier than what you see here.  
 
 If you want in:  
 - Open a GitHub issue and tag it **Access Request**  
