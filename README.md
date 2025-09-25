@@ -8,8 +8,6 @@
 
 👋 **New to VANTA?**
 
-🔎 Looking for the **core intelligence engine**? → Visit the [VANTA OS Repository](https://github.com/qstackfield/vanta-capital-intelligence-os).  
-
 📡 Curious about **subscriptions & vault mirroring**? → Check out the [VANTA Platform Repository](https://github.com/qstackfield/vanta-platform).  
 
 📑 Want the **architecture-level design**? → See the [VANTA Architecture LLD](https://github.com/qstackfield/vanta-architecture-LLD).  
