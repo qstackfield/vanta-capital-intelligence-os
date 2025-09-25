@@ -660,7 +660,7 @@ Every contribution goes toward expanding vault intelligence, mirroring, executio
 
 ## 📬 Access
 
-This repo is the public-facing build journal — curated nights, structured notes.  
+This repo is the public-facing build journal - curated nights, structured notes.  
 There’s also a deeper layer of extended notes and raw fragments.  
 
 If you want in:  
