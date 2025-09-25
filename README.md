@@ -6,10 +6,13 @@
 
 ## 👋 New to VANTA?
 
-- 📖 Start with the [Investor Landing Page](https://qstackfield.github.io/vanta-capital-intelligence-os/) for a high-level overview.  
-- 💻 Looking for subscriptions & vault mirroring? Go to the [VANTA Platform Repository](https://github.com/qstackfield/vanta-platform).  
-- 💬 All design, roadmap, and Q&A are open → [Join the VANTA Discussions](../../discussions).  
-
+<p align="center">
+  <b>VANTA OS (Core)</b> ·
+  <a href="https://github.com/qstackfield/vanta-platform">VANTA Platform (Mirroring)</a> ·
+  <a href="https://qstackfield.github.io/vanta-capital-intelligence-os/">Investor Overview</a> ·
+  <a href="https://github.com/qstackfield/vanta-architecture-LLD">Architecture LLD</a> ·
+  <a href="https://github.com/qstackfield/vanta-capital-intelligence-os/discussions">Discussions</a>
+</p>
 ---
 
 # VANTA OS - Autonomous Capital Intelligence Stack
