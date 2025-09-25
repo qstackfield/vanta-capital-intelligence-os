@@ -7,11 +7,11 @@
 ## 👋 New to VANTA?
 
 <p align="center">
-  <b>VANTA OS (Core)</b>
-  <a href="https://github.com/qstackfield/vanta-platform">VANTA Platform (Mirroring)</a> ·
-  <a href="https://qstackfield.github.io/vanta-capital-intelligence-os/">Investor Overview</a> ·
-  <a href="https://github.com/qstackfield/vanta-architecture-LLD">Architecture LLD</a> ·
-  <a href="https://github.com/qstackfield/vanta-capital-intelligence-os/discussions">Discussions</a>
+  🧠 <a href="https://github.com/qstackfield/vanta-capital-intelligence-os"><b>VANTA OS (Core)</b></a> ·
+  📡 <a href="https://github.com/qstackfield/vanta-platform"><b>VANTA Platform (Mirroring)</b></a> ·
+  🗂️ <a href="https://github.com/qstackfield/vanta-architecture-LLD"><b>Architecture LLD</b></a> ·
+  🌍 <a href="https://qstackfield.github.io/vanta-capital-intelligence-os/"><b>Investor Overview</b></a> ·
+  💬 <a href="https://github.com/qstackfield/vanta-capital-intelligence-os/discussions"><b>Discussions</b></a>
 </p>
 
 ---
