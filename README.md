@@ -4,14 +4,21 @@
 
 [![Fund VANTA](https://img.shields.io/badge/Fund%20VANTA-Support-blue?style=for-the-badge&logo=stripe)](https://buy.stripe.com/eVqdR96ahdqIb69cSVbZe03)
 
-## 👋 New to VANTA?
-<p align="center">
-  🧠 <a href="https://github.com/qstackfield/vanta-capital-intelligence-os"><b>VANTA OS</b></a> ·
-  📡 <a href="https://github.com/qstackfield/vanta-platform"><b>VANTA Platform</b></a> ·
-  🗂️ <a href="https://github.com/qstackfield/vanta-architecture-LLD"><b>Architecture LLD</b></a> ·
-  🌍 <a href="https://qstackfield.github.io/vanta-capital-intelligence-os/"><b>Investor Overview</b></a> ·
-  💬 <a href="https://github.com/qstackfield/vanta-capital-intelligence-os/discussions"><b>Discussions</b></a>
-</p>
+---
+
+👋 **New to VANTA?**
+
+🔎 Looking for the **core intelligence engine**? → Visit the [VANTA OS Repository](https://github.com/qstackfield/vanta-capital-intelligence-os).  
+
+📡 Curious about **subscriptions & vault mirroring**? → Check out the [VANTA Platform Repository](https://github.com/qstackfield/vanta-platform).  
+
+📑 Want the **architecture-level design**? → See the [VANTA Architecture LLD](https://github.com/qstackfield/vanta-architecture-LLD).  
+
+🌍 Need the **high-level investor overview**? → Start with the [Investor Landing Page](https://qstackfield.github.io/vanta-capital-intelligence-os/).  
+
+💬 Have questions, roadmap ideas, or feedback? → Join the [VANTA Discussions](https://github.com/qstackfield/vanta-capital-intelligence-os/discussions).  
+
+---
 
 ---
 
