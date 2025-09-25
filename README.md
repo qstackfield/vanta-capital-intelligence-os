@@ -660,11 +660,8 @@ Every contribution goes toward expanding vault intelligence, mirroring, executio
 
 ## 📬 Access
 
-The public repo shows the surface.  
-The **extended build journal** exists - raw, unfiltered, and heavier than what you see here.  
+This repo is the public-facing build journal — curated nights, structured notes.  
+There’s also a deeper layer of extended notes and raw fragments.  
 
 If you want in:  
-- Open a GitHub issue and tag it **Access Request**  
-- State why you want access and how you plan to use it  
-
-Not everyone gets through. Requests are reviewed manually.  
+[![Request Access](https://img.shields.io/badge/Request-Access-blue?style=for-the-badge&logo=github)](../../issues/new?template=access-request.md)
