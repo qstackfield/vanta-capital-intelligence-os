@@ -5,7 +5,6 @@
 [![Fund VANTA](https://img.shields.io/badge/Fund%20VANTA-Support-blue?style=for-the-badge&logo=stripe)](https://buy.stripe.com/eVqdR96ahdqIb69cSVbZe03)
 
 ## 👋 New to VANTA?
-
 <p align="center">
   🧠 <a href="https://github.com/qstackfield/vanta-capital-intelligence-os"><b>VANTA OS</b></a> ·
   📡 <a href="https://github.com/qstackfield/vanta-platform"><b>VANTA Platform</b></a> ·
