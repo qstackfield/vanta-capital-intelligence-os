@@ -643,11 +643,14 @@ Every contribution goes toward expanding vault intelligence, mirroring, executio
 
 ## 🔗 Related Repositories  
 
-- **[VANTA Platform – Subscriptions & Vault Mirroring](https://github.com/qstackfield/vanta-platform)**  
-  User-facing layer for onboarding, subscriptions, API entitlements, and **Vault Mirroring**.  
-  Handles billing, referral incentives, entitlement enforcement, and broker API integrations so followers can copy vaults seamlessly.  
-
-- 📖 [Investor Landing Page](https://qstackfield.github.io/vanta-capital-intelligence-os/) for a high-level overview.  
-- 💬 Design, Roadmap, and Q&A → [Join the VANTA Discussions](../../discussions).  
-
 ---
+
+<p align="center">
+  <sub>
+    🧠 <a href="https://github.com/qstackfield/vanta-capital-intelligence-os"><b>VANTA OS</b></a> ·
+    📡 <a href="https://github.com/qstackfield/vanta-platform"><b>VANTA Platform</b></a> ·
+    🗂️ <a href="https://github.com/qstackfield/vanta-architecture-LLD"><b>Architecture LLD</b></a> ·
+    🌍 <a href="https://qstackfield.github.io/vanta-capital-intelligence-os/"><b>Investor Overview</b></a> ·
+    💬 <a href="https://github.com/qstackfield/vanta-capital-intelligence-os/discussions"><b>Discussions</b></a>
+  </sub>
+</p>
