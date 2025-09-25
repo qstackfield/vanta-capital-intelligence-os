@@ -13,6 +13,7 @@
   <a href="https://github.com/qstackfield/vanta-architecture-LLD">Architecture LLD</a> ·
   <a href="https://github.com/qstackfield/vanta-capital-intelligence-os/discussions">Discussions</a>
 </p>
+
 ---
 
 # VANTA OS - Autonomous Capital Intelligence Stack
