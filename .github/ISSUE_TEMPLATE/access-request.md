@@ -7,7 +7,7 @@ assignees: []
 ---
 
 ## 🔑 Why are you requesting access?
-(Explain in 1–2 sentences what draws you to Errata. Curiosity, research, learning, inspiration — be honest.)
+(Explain in 1–2 sentences what draws you to Errata. Curiosity, research, learning, inspiration - be honest.)
 
 ## 📚 How do you plan to use the notes?
 (Reading, studying system design, collaborating, sharing feedback, etc.)
