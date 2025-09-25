@@ -4,15 +4,19 @@
 
 ---
 
-> ❓ Want the **deep technical breakdown**?  
-> 👉 [Explore the VANTA OS Repository](https://github.com/qstackfield/vanta-capital-intelligence-os)  
+---
 
-> 📡 Curious about **subscriptions & vault mirroring**?  
-> 👉 [Check out the VANTA Platform Repository](https://github.com/qstackfield/vanta-platform)  
+👋 **New to VANTA?**
 
-> 💬 Have questions or ideas?  
-> 👉 [Join the VANTA Discussions](https://github.com/qstackfield/vanta-capital-intelligence-os/discussions)  
+🔎 Looking for the **core intelligence engine**? → Visit the [VANTA OS Repository](https://github.com/qstackfield/vanta-capital-intelligence-os).  
 
+📡 Curious about **subscriptions & vault mirroring**? → Check out the [VANTA Platform Repository](https://github.com/qstackfield/vanta-platform).  
+
+📑 Want the **architecture-level design**? → See the [VANTA Architecture LLD](https://github.com/qstackfield/vanta-architecture-LLD).  
+
+💬 Have questions, roadmap ideas, or feedback? → Join the [VANTA Discussions](https://github.com/qstackfield/vanta-capital-intelligence-os/discussions).  
+
+---
 ---
 
 <h2 align="center"><strong>VANTA OS – Autonomous Capital Intelligence</strong></h2>
