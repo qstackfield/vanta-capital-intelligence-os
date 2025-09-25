@@ -1,1 +1,5 @@
-.
+blank_issues_enabled: false
+contact_links:
+  - name: 📬 Access Requests
+    url: ../../issues/new?template=access-request.md
+    about: Use this form to request access to Errata (extended build notes).
